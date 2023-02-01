@@ -1297,11 +1297,6 @@
         </adm2>
     </adm1>
     <adm1 name="Aleppo" code="SY02">
-        <adm2 name="Aleppo" code="SY02-1">
-            <adm3 name="Aleppo" code="SY02-2">
-                <adm4 name="Saba Bahrat" code="SY02-3"/>
-            </adm3>
-        </adm2>
         <adm2 name="A'zaz" code="SY0204">
             <adm3 name="A'zaz" code="SY020400">
                 <adm4 name="Al-Malikeyyeh" code="C1563"/>
@@ -3204,6 +3199,7 @@
                 <adm4 name="Rasm Elmashrafeh" code="C1674"/>
                 <adm4 name="Ratwaniyeh" code="C1742"/>
                 <adm4 name="Saan Elghazal - Buz Kij" code="C1715"/>
+                <adm4 name="Saba Bahrat" code="SY02-3"/>
                 <adm4 name="Safi" code="C1753"/>
                 <adm4 name="Saidiyeh" code="C1720"/>
                 <adm4 name="Sayada" code="C1737"/>
