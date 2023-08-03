@@ -1326,6 +1326,8 @@
                 <adm4 name="Talil Elsham" code="C1559"/>
                 <adm4 name="Tatiyeh" code="C1558"/>
                 <adm4 name="Yahmul" code="C1571"/>
+                <adm4 name="Ewaa Jdida road Azaz" code="SY020400-1" />
+                <adm4 name="Eqraa center" code="SY020400-2" />
             </adm3>
             <adm3 name="Aghtrin" code="SY020401">
                 <adm4 name="Abla" code="C1584"/>
@@ -1415,6 +1417,7 @@
                 <adm4 name="Wahshiyeh" code="C1644"/>
                 <adm4 name="Wardyah" code="C8152"/>
                 <adm4 name="Wasitiyah Maree" code="C7474"/>
+                <adm4 name="Habib Alrahman camp" code="SY020403-1" />
             </adm3>
             <adm3 name="Nabul" code="SY020404">
                 <adm4 name="Banastour" code="C7453"/>
@@ -1463,6 +1466,8 @@
                 <adm4 name="Yan yaban" code="C1664-1"/>
                 <adm4 name="Yarobiyeh" code="C1657"/>
                 <adm4 name="Zayzafun - Ekdeh" code="C1658"/>
+                <adm4 name="Al Fateh camp" code="SY020405-1" />
+                <adm4 name="Ewaa Kafra-Alfatih" code="SY020405-2"/>
             </adm3>
             <adm3 name="Tall Refaat" code="SY020402">
                 <adm4 name="Ahras" code="C1623"/>
@@ -2202,6 +2207,12 @@
                 <adm4 name="Wuradaya" code="C7438"/>
                 <adm4 name="Zarzur" code="C8157"/>
                 <adm4 name="Zwaian" code="C8155"/>
+                <adm4 name="Western Tal Eysha camp" code="SY020200-1"/>
+                <adm4 name="Estern Tal Eysha camp" code="SY020200-2"/>
+                <adm4 name="Tal Shafra camp" code="SY020200-3"/>
+                <adm4 name="Jibin camp" code="SY020200-4"/>
+                <adm4 name="El Amria camp" code="SY020200-5"/>
+                <adm4 name="Sanda camp" code="SY020200-6"/>
             </adm3>
             <adm3 name="Ar-Ra'ee" code="SY020203">
                 <adm4 name="Al-Oun" code="C8203"/>
@@ -2589,6 +2600,8 @@
                 <adm4 name="Upper Um Rotha" code="C2225"/>
                 <adm4 name="Yusef Elbeik" code="C2236"/>
                 <adm4 name="Zoghra" code="C2220"/>
+                <adm4 name="Aird Aljameia" code="SY020800-1" />
+                <adm4 name="Alhulwania" code="SY020800-2" />
             </adm3>
         </adm2>
         <adm2 name="Jebel Saman" code="SY0200">
@@ -6197,6 +6210,7 @@
                 <adm4 name="Tilaada/Al Reef Al Gharbi Camp" code="SY070301-18"/>
                 <adm4 name="Tilal Halap Camp" code="SY070301-19"/>
                 <adm4 name="Kafr Lusin" code="H0002"/>
+                <adm4 name="Sahara" code="SY070301-20" />
             </adm3>
             <adm3 name="Harim" code="SY070300">
                 <adm4 name="Alkastal Camp" code="SY070300-1"/>
@@ -6379,6 +6393,7 @@
                 <adm4 name="Tall Sindal" code="C8048"/>
                 <adm4 name="Taltuneh" code="C3940"/>
                 <adm4 name="Zardana Mashehad" code="C3938"/>
+                <adm4 name="Kafr Nabi/Dar Al Salam Camp" code="C3948-1"/>
             </adm3>
             <adm3 name="Saraqab" code="SY070003">
                 <adm4 name="Abul Khos" code="C3914"/>
@@ -6441,6 +6456,7 @@
                 <adm4 name="Tuffahiyeh" code="C4224"/>
                 <adm4 name="Yunesiyeh" code="C4225"/>
                 <adm4 name="Zoainieh" code="C6698"/>
+                <adm4 name="Eastern Marj Akhdar" code="SY070401-1" />
             </adm3>
             <adm3 name="Darkosh" code="SY070402">
                 <adm4 name="Al Hamia" code="C6734"/>
