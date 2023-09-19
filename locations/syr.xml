@@ -6368,12 +6368,14 @@
             <adm3 name="Maaret Tamsrin" code="SY070005">
                 <adm4 name="Alaskan Camp" code="SY070005-1"/>
                 <adm4 name="Al Sader Camp" code="SY070005-2"/>
+                <adm4 name="Al shjra Camp" code="SY070005-6"/>
                 <adm4 name="Al Qqaheraa Camp" code="SY070005-3"/>
                 <adm4 name="Al Zuhur Camp" code="SY070005-4"/>
                 <adm4 name="Batenta" code="C3939"/>
                 <adm4 name="Beeret Kaftin" code="C6633"/>
                 <adm4 name="Bhora" code="C3937"/>
                 <adm4 name="Boayba" code="C6732"/>
+                <adm4 name="Diab Camp" code="SY070005-7"/>
                 <adm4 name="Habat" code="C6632"/>
                 <adm4 name="Haranbush" code="C3943"/>
                 <adm4 name="Hazano" code="C3944"/>
@@ -6389,8 +6391,10 @@
                 <adm4 name="Mawahum rahma Camp" code="SY070005-5"/>
                 <adm4 name="Murin" code="C3946"/>
                 <adm4 name="Ram Hamdan" code="C3941"/>
+                <adm4 name="Sham Camp" code="SY070005-8"/>
                 <adm4 name="Shekh Bahr" code="C6631"/>
                 <adm4 name="Tall Sindal" code="C8048"/>
+                <adm4 name="Tal Eskandar Camp" code="SY070005-9"/>
                 <adm4 name="Taltuneh" code="C3940"/>
                 <adm4 name="Zardana Mashehad" code="C3938"/>
                 <adm4 name="Kafr Nabi/Dar Al Salam Camp" code="C3948-1"/>
