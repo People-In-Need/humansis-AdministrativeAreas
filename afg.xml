@@ -1,0 +1,692 @@
+<?xml version="1.0"?>
+<adm0 name="Afghanistan" code="AF">
+    <adm1 code="CR" name="Capital">
+        <adm2 code="AF01" name="Kabul">
+            <adm3 code="AF0101" name="Kabul">
+                <adm4 code="AF0101000" name="[No village name]"/>
+                <adm4 code="AF0101002" name="Deh Khodaidad"/>
+                <adm4 code="AF0101001" name="Char Qalai Chardehi"/>
+                <adm4 code="AF0101006" name="Kart-e-Naw"/>
+                <adm4 code="AF0101004" name="Qala-e-Hashmat Khan"/>
+                <adm4 code="AF0101005" name="Qala-e-Zaman Khan"/>
+                <adm4 code="AF0101003" name="Shuhada-e-Salihin"/>
+            </adm3>
+            <adm3 code="AF0102" name="Paghman"/>
+            <adm3 code="AF0103" name="Chahar Asyab"/>
+            <adm3 code="AF0104" name="Bagrami"/>
+            <adm3 code="AF0105" name="Deh Sabz"/>
+            <adm3 code="AF0106" name="Shakar Dara"/>
+            <adm3 code="AF0107" name="Musahi"/>
+            <adm3 code="AF0108" name="Mir Bacha Kot"/>
+            <adm3 code="AF0109" name="Khak-e-Jabbar"/>
+            <adm3 code="AF0110" name="Kalakan"/>
+            <adm3 code="AF0111" name="Guldara"/>
+            <adm3 code="AF0112" name="Farza"/>
+            <adm3 code="AF0113" name="Estalef"/>
+            <adm3 code="AF0114" name="Qara Bagh"/>
+            <adm3 code="AF0115" name="Surobi"/>
+        </adm2>
+        <adm2 code="AF02" name="Kapisa">
+            <adm3 code="AF0201" name="Mahmood-e-Raqi"/>
+            <adm3 code="AF0202" name="Hisa-e-Duwum-e-Kohistan"/>
+            <adm3 code="AF0203" name="Koh Band"/>
+            <adm3 code="AF0204" name="Hisa-e-Awal-e-Kohistan"/>
+            <adm3 code="AF0205" name="Nijrab">
+                <adm4 code="AF0205000" name="[No village name]"/>
+                <adm4 code="AF0205002" name="Ferozayee"/>
+                <adm4 code="AF0205001" name="Haidar Khail"/>
+            </adm3>
+            <adm3 code="AF0206" name="Tagab"/>
+            <adm3 code="AF0207" name="Alasay"/>
+        </adm2>
+        <adm2 code="AF03" name="Parwan"/>
+        <adm2 code="AF04" name="Maidan Wardak">
+            <adm3 code="AF0401" name="Maydan Shahr"/>
+            <adm3 code="AF0402" name="Nerkh"/>
+            <adm3 code="AF0403" name="Jalrez">
+                <adm4 code="AF0403000" name="[No village name]"/>
+                <adm4 code="AF0403001" name="Tankalech"/>
+            </adm3>
+            <adm3 code="AF0404" name="Chak-e-Wardak"/>
+            <adm3 code="AF0405" name="Saydabad">
+                <adm4 code="AF0405000" name="[No village name]"/>
+                <adm4 code="AF0405006" name="Ab Dara (Kchonay)"/>
+                <adm4 code="AF0405005" name="Ab Dara (Stara)"/>
+                <adm4 code="AF0405109" name="Abdul Mohay Din"/>
+                <adm4 code="AF0405007" name="Agha Khil"/>
+                <adm4 code="AF0405001" name="Ahsan Khil"/>
+                <adm4 code="AF0405002" name="Aka Khel"/>
+                <adm4 code="AF0405112" name="Alam Khil"/>
+                <adm4 code="AF0405048" name="Alim Khil"/>
+                <adm4 code="AF0405003" name="Allayar Khil"/>
+                <adm4 code="AF0405110" name="Arab Khil"/>
+                <adm4 code="AF0405009" name="Babar Baba Khil"/>
+                <adm4 code="AF0405022" name="Babo Khil"/>
+                <adm4 code="AF0405014" name="Badagak"/>
+                <adm4 code="AF0405010" name="Badam"/>
+                <adm4 code="AF0405011" name="Badi Khil"/>
+                <adm4 code="AF0405013" name="Baghak"/>
+                <adm4 code="AF0405021" name="Bahador Khil"/>
+                <adm4 code="AF0405020" name="Baland Kash"/>
+                <adm4 code="AF0405017" name="Bar Jankjay"/>
+                <adm4 code="AF0405015" name="Bar Mamal"/>
+                <adm4 code="AF0405016" name="Barat Khil"/>
+                <adm4 code="AF0405018" name="Bargi"/>
+                <adm4 code="AF0405019" name="Barhani Khil"/>
+                <adm4 code="AF0405012" name="Barkay"/>
+                <adm4 code="AF0405008" name="Boozak"/>
+                <adm4 code="AF0405054" name="Dag Baghray"/>
+                <adm4 code="AF0405061" name="Dandi Sisay"/>
+                <adm4 code="AF0405060" name="Dandokay"/>
+                <adm4 code="AF0405056" name="Dara"/>
+                <adm4 code="AF0405059" name="Dasht Toop"/>
+                <adm4 code="AF0405058" name="Dasht Top ( Koday)"/>
+                <adm4 code="AF0405064" name="Dawlat Khil"/>
+                <adm4 code="AF0405062" name="Do-Aab"/>
+                <adm4 code="AF0405063" name="Do-Aab Kodi"/>
+                <adm4 code="AF0405057" name="Drain Khil"/>
+                <adm4 code="AF0405055" name="Durani"/>
+                <adm4 code="AF0405115" name="Faqir Abad"/>
+                <adm4 code="AF0405139" name="Gadaee"/>
+                <adm4 code="AF0405140" name="Gadolak"/>
+                <adm4 code="AF0405141" name="Gardi Kala"/>
+                <adm4 code="AF0405114" name="Ghabak Khil"/>
+                <adm4 code="AF0405113" name="Ghazi Khil"/>
+                <adm4 code="AF0405144" name="Gider Khil"/>
+                <adm4 code="AF0405142" name="Gulab Khil"/>
+                <adm4 code="AF0405143" name="Guli Khil"/>
+                <adm4 code="AF0405171" name="Hadi Khil"/>
+                <adm4 code="AF0405173" name="Haft Asiab"/>
+                <adm4 code="AF0405050" name="Haidar Khil"/>
+                <adm4 code="AF0405044" name="Haji Khil"/>
+                <adm4 code="AF0405047" name="Hakim Khail (Syoray)"/>
+                <adm4 code="AF0405049" name="Hamza Khil"/>
+                <adm4 code="AF0405172" name="Hashim Khil"/>
+                <adm4 code="AF0405046" name="Hassan Baig"/>
+                <adm4 code="AF0405174" name="Hosi Khail"/>
+                <adm4 code="AF0405040" name="Chahar Magh"/>
+                <adm4 code="AF0405041" name="Chahardehi"/>
+                <adm4 code="AF0405039" name="Changi"/>
+                <adm4 code="AF0405043" name="Chejan"/>
+                <adm4 code="AF0405038" name="Chenar"/>
+                <adm4 code="AF0405034" name="Jali Khil"/>
+                <adm4 code="AF0405032" name="Jan Khan Kalai"/>
+                <adm4 code="AF0405033" name="Jan Mohammad Kh&#xEC;l"/>
+                <adm4 code="AF0405035" name="Jangjay"/>
+                <adm4 code="AF0405031" name="Jarchian"/>
+                <adm4 code="AF0405030" name="Jawzarin"/>
+                <adm4 code="AF0405036" name="Jawzi Khil"/>
+                <adm4 code="AF0405037" name="Joki Khil"/>
+                <adm4 code="AF0405123" name="Kadalak"/>
+                <adm4 code="AF0405122" name="Kaj Qala"/>
+                <adm4 code="AF0405124" name="Kama Abdara"/>
+                <adm4 code="AF0405121" name="Kamran Khil"/>
+                <adm4 code="AF0405120" name="Kariz Kan"/>
+                <adm4 code="AF0405051" name="Khan Khil"/>
+                <adm4 code="AF0405052" name="Kharyan"/>
+                <adm4 code="AF0405053" name="Khowja Ghorumband"/>
+                <adm4 code="AF0405135" name="Koday Noori"/>
+                <adm4 code="AF0405133" name="Koday Shirdad Khil"/>
+                <adm4 code="AF0405134" name="Kodi Lawer"/>
+                <adm4 code="AF0405129" name="Kodi Ranzi Khil"/>
+                <adm4 code="AF0405130" name="Kodi Saadudin Kalai"/>
+                <adm4 code="AF0405131" name="Kodi Sarkay"/>
+                <adm4 code="AF0405132" name="Kodi Sesai"/>
+                <adm4 code="AF0405125" name="Kochi Sisay"/>
+                <adm4 code="AF0405126" name="Kochian Kariz"/>
+                <adm4 code="AF0405137" name="Koz Googar"/>
+                <adm4 code="AF0405136" name="Koz Jangjai"/>
+                <adm4 code="AF0405138" name="Koz Mamal"/>
+                <adm4 code="AF0405145" name="Lachi Khil"/>
+                <adm4 code="AF0405146" name="Laram"/>
+                <adm4 code="AF0405150" name="Lowal"/>
+                <adm4 code="AF0405148" name="Lowar Dowad"/>
+                <adm4 code="AF0405151" name="Loya Aryab"/>
+                <adm4 code="AF0405147" name="Lwar"/>
+                <adm4 code="AF0405149" name="Lwar Koday"/>
+                <adm4 code="AF0405160" name="Mahbat Khil"/>
+                <adm4 code="AF0405152" name="Mach Qala"/>
+                <adm4 code="AF0405158" name="Mamal"/>
+                <adm4 code="AF0405159" name="Mangali"/>
+                <adm4 code="AF0405154" name="Masti Khail"/>
+                <adm4 code="AF0405157" name="Meli Khel"/>
+                <adm4 code="AF0405161" name="Mihro"/>
+                <adm4 code="AF0405164" name="Mir Khan Khil"/>
+                <adm4 code="AF0405165" name="Mir Yahya Khil"/>
+                <adm4 code="AF0405162" name="Mode Khil"/>
+                <adm4 code="AF0405153" name="Mohammad Amin Shar"/>
+                <adm4 code="AF0405163" name="Mousa Khil"/>
+                <adm4 code="AF0405155" name="Mushak Khil"/>
+                <adm4 code="AF0405168" name="Naw Abad Seya Chob"/>
+                <adm4 code="AF0405170" name="Naw Abad Siachoob"/>
+                <adm4 code="AF0405167" name="Nawabad Dorahi"/>
+                <adm4 code="AF0405166" name="Nusrat Khil"/>
+                <adm4 code="AF0405004" name="Onkhay"/>
+                <adm4 code="AF0405111" name="Otari"/>
+                <adm4 code="AF0405025" name="Painda Khil"/>
+                <adm4 code="AF0405026" name="Patan Khil"/>
+                <adm4 code="AF0405023" name="Patanak"/>
+                <adm4 code="AF0405024" name="Poory Sar"/>
+                <adm4 code="AF0405118" name="Qala Amir"/>
+                <adm4 code="AF0405117" name="Qala Amir Rahman Khail"/>
+                <adm4 code="AF0405119" name="Qalai Saduddin"/>
+                <adm4 code="AF0405116" name="Qazi Qala"/>
+                <adm4 code="AF0405065" name="Rahman Khil"/>
+                <adm4 code="AF0405066" name="Ranzi Khil"/>
+                <adm4 code="AF0405106" name="Sadiq Khil"/>
+                <adm4 code="AF0405078" name="Sado Khil"/>
+                <adm4 code="AF0405082" name="Sadudin"/>
+                <adm4 code="AF0405083" name="Sakandar Kariz"/>
+                <adm4 code="AF0405074" name="Salar"/>
+                <adm4 code="AF0405107" name="Samad Khan"/>
+                <adm4 code="AF0405085" name="Sanda War"/>
+                <adm4 code="AF0405080" name="Sar Qoul"/>
+                <adm4 code="AF0405089" name="Seesai"/>
+                <adm4 code="AF0405094" name="Sha Mohammad Khil"/>
+                <adm4 code="AF0405091" name="Shadi Khil"/>
+                <adm4 code="AF0405098" name="Shaganak"/>
+                <adm4 code="AF0405095" name="Shahgul Khil"/>
+                <adm4 code="AF0405100" name="Shaikh Abad"/>
+                <adm4 code="AF0405097" name="Shamsy"/>
+                <adm4 code="AF0405096" name="Shash Qala"/>
+                <adm4 code="AF0405092" name="Shatar"/>
+                <adm4 code="AF0405105" name="Sherazy Baba"/>
+                <adm4 code="AF0405099" name="Shikh Azam Bala"/>
+                <adm4 code="AF0405101" name="Shikhay"/>
+                <adm4 code="AF0405102" name="Shir Dad Khil"/>
+                <adm4 code="AF0405104" name="Shir Dad Khil Kodi"/>
+                <adm4 code="AF0405087" name="Siachob (Center)"/>
+                <adm4 code="AF0405086" name="Siachob (Shash Qala)"/>
+                <adm4 code="AF0405088" name="Sirak"/>
+                <adm4 code="AF0405090" name="Sisay Kochyan"/>
+                <adm4 code="AF0405075" name="Spain Jomat"/>
+                <adm4 code="AF0405081" name="Sra Qala"/>
+                <adm4 code="AF0405076" name="Stara Abdara"/>
+                <adm4 code="AF0405077" name="Stara Lora"/>
+                <adm4 code="AF0405084" name="Sultan Khil"/>
+                <adm4 code="AF0405028" name="Taj Begi"/>
+                <adm4 code="AF0405027" name="Tara Khil"/>
+                <adm4 code="AF0405029" name="Temor Khail"/>
+                <adm4 code="AF0405175" name="Wakhjam Bala"/>
+                <adm4 code="AF0405176" name="Wakhjam Pain"/>
+                <adm4 code="AF0405177" name="Yawiz"/>
+                <adm4 code="AF0405178" name="Yussuf Khel / Mashang Qala"/>
+                <adm4 code="AF0405071" name="Zamoch"/>
+                <adm4 code="AF0405072" name="Zanborak"/>
+                <adm4 code="AF0405067" name="Zar Sang"/>
+                <adm4 code="AF0405070" name="Zarin Khil"/>
+                <adm4 code="AF0405068" name="Zarni"/>
+                <adm4 code="AF0405073" name="Zinkhan Khil"/>
+            </adm3>
+            <adm3 code="AF0406" name="Daymirdad"/>
+            <adm3 code="AF0407" name="Hesa-e-Awal-e-Behsud">
+                <adm4 code="AF0407000" name="[No village name]"/>
+                <adm4 code="AF0407001" name="Abekak"/>
+                <adm4 code="AF0407003" name="Ajom Qol Shahrak"/>
+                <adm4 code="AF0407004" name="Altarghanagak"/>
+                <adm4 code="AF0407002" name="Atoo Pour Ab Dara"/>
+                <adm4 code="AF0407008" name="Bad Ras"/>
+                <adm4 code="AF0407006" name="Bagh Zaghan"/>
+                <adm4 code="AF0407007" name="Baghili Kalak"/>
+                <adm4 code="AF0407009" name="Balka Bala"/>
+                <adm4 code="AF0407010" name="Balka Payen"/>
+                <adm4 code="AF0407011" name="Balna Bala"/>
+                <adm4 code="AF0407015" name="Band Ghojor"/>
+                <adm4 code="AF0407014" name="Band Sorkh Gelak"/>
+                <adm4 code="AF0407013" name="Band Sorkhtob"/>
+                <adm4 code="AF0407012" name="Band-E-Dowborga"/>
+                <adm4 code="AF0407018" name="Bedak"/>
+                <adm4 code="AF0407016" name="Bore Sanak"/>
+                <adm4 code="AF0407017" name="Boum Ab Dara"/>
+                <adm4 code="AF0407042" name="Dahan Baidak (1)"/>
+                <adm4 code="AF0407041" name="Dahan Obe Said"/>
+                <adm4 code="AF0407044" name="Dahan Qol-E- Bangi"/>
+                <adm4 code="AF0407043" name="Dahan Tanor"/>
+                <adm4 code="AF0407045" name="Dahane Qol"/>
+                <adm4 code="AF0407039" name="Dalal"/>
+                <adm4 code="AF0407030" name="Daman Khalak"/>
+                <adm4 code="AF0407040" name="Dand Ghojor"/>
+                <adm4 code="AF0407035" name="Dasht Lokhak"/>
+                <adm4 code="AF0407031" name="Dasht Owtman"/>
+                <adm4 code="AF0407032" name="Dasht Paiy Loch"/>
+                <adm4 code="AF0407034" name="Dasht Qala"/>
+                <adm4 code="AF0407033" name="Dasht Shor"/>
+                <adm4 code="AF0407038" name="Dasht Wakil"/>
+                <adm4 code="AF0407036" name="Dasht-E-Mami"/>
+                <adm4 code="AF0407037" name="Desht-E-Mindad"/>
+                <adm4 code="AF0407047" name="Dewal"/>
+                <adm4 code="AF0407046" name="Dosia"/>
+                <adm4 code="AF0407069" name="Fateh Khan"/>
+                <adm4 code="AF0407070" name="Frakhulam"/>
+                <adm4 code="AF0407099" name="Gombazi"/>
+                <adm4 code="AF0407029" name="Chal"/>
+                <adm4 code="AF0407028" name="Jawqul"/>
+                <adm4 code="AF0407027" name="Jow Sheenak"/>
+                <adm4 code="AF0407091" name="Kamar Darvishan"/>
+                <adm4 code="AF0407093" name="Kobee"/>
+                <adm4 code="AF0407092" name="Kohna Bairi"/>
+                <adm4 code="AF0407098" name="Kohna Nawar"/>
+                <adm4 code="AF0407094" name="Kota"/>
+                <adm4 code="AF0407097" name="Kota Msins"/>
+                <adm4 code="AF0407096" name="Kota-E- Shere"/>
+                <adm4 code="AF0407095" name="Kota-E-Takhta"/>
+                <adm4 code="AF0407100" name="Lal Baig"/>
+                <adm4 code="AF0407101" name="Lora"/>
+                <adm4 code="AF0407103" name="Mir Khana"/>
+                <adm4 code="AF0407102" name="Monika"/>
+                <adm4 code="AF0407106" name="Naizar"/>
+                <adm4 code="AF0407105" name="Naw Abad"/>
+                <adm4 code="AF0407104" name="Nawrak"/>
+                <adm4 code="AF0407107" name="Nayak"/>
+                <adm4 code="AF0407005" name="Obe Sayid"/>
+                <adm4 code="AF0407022" name="Painj Asaiyab"/>
+                <adm4 code="AF0407020" name="Paiy Qash"/>
+                <adm4 code="AF0407019" name="Palal Mirka"/>
+                <adm4 code="AF0407023" name="Pang Pai"/>
+                <adm4 code="AF0407021" name="Pay-e Kotal"/>
+                <adm4 code="AF0407073" name="Qabeghan"/>
+                <adm4 code="AF0407075" name="Qaf Qoul"/>
+                <adm4 code="AF0407086" name="Qala Abas"/>
+                <adm4 code="AF0407083" name="Qala -E- Obe Zafer"/>
+                <adm4 code="AF0407077" name="Qala E- Payan"/>
+                <adm4 code="AF0407076" name="Qala Haidar"/>
+                <adm4 code="AF0407088" name="Qala Lalay"/>
+                <adm4 code="AF0407089" name="Qala Myana"/>
+                <adm4 code="AF0407085" name="Qala Shiekh"/>
+                <adm4 code="AF0407084" name="Qala-E- Haji"/>
+                <adm4 code="AF0407087" name="Qala-E-Alidad"/>
+                <adm4 code="AF0407082" name="Qala-E-Alki"/>
+                <adm4 code="AF0407074" name="Qash"/>
+                <adm4 code="AF0407071" name="Qol Ghawoch"/>
+                <adm4 code="AF0407072" name="Qol Mashi"/>
+                <adm4 code="AF0407081" name="Qol Mazar"/>
+                <adm4 code="AF0407078" name="Qol-E-Bangi"/>
+                <adm4 code="AF0407080" name="Qoul Madad"/>
+                <adm4 code="AF0407090" name="Qoul Qandi"/>
+                <adm4 code="AF0407079" name="Qoul Sayid"/>
+                <adm4 code="AF0407048" name="Roba Sorakh"/>
+                <adm4 code="AF0407051" name="Sabz Darakht"/>
+                <adm4 code="AF0407050" name="Sadat Qol Qandi"/>
+                <adm4 code="AF0407057" name="Safid Gurdan"/>
+                <adm4 code="AF0407058" name="Sand Badqaq"/>
+                <adm4 code="AF0407059" name="Sang Sorakh"/>
+                <adm4 code="AF0407053" name="Sar Sang"/>
+                <adm4 code="AF0407054" name="Sar Sangak"/>
+                <adm4 code="AF0407052" name="Sari Shahrak"/>
+                <adm4 code="AF0407055" name="Sarqul"/>
+                <adm4 code="AF0407065" name="Shaikh Sang"/>
+                <adm4 code="AF0407063" name="Shakar Khan"/>
+                <adm4 code="AF0407061" name="Shakh Chel Chob"/>
+                <adm4 code="AF0407062" name="Shamad"/>
+                <adm4 code="AF0407064" name="Shamshir Sang"/>
+                <adm4 code="AF0407068" name="Shania"/>
+                <adm4 code="AF0407067" name="Shir Ali"/>
+                <adm4 code="AF0407066" name="Shirazi"/>
+                <adm4 code="AF0407060" name="Siah Buteh"/>
+                <adm4 code="AF0407026" name="Titoop"/>
+                <adm4 code="AF0407024" name="Tobagah"/>
+                <adm4 code="AF0407025" name="Toop Zada"/>
+                <adm4 code="AF0407049" name="Zir Qala"/>
+            </adm3>
+            <adm3 code="AF0408" name="Jaghatu">
+                <adm4 code="AF0408000" name="[No village name]"/>
+                <adm4 code="AF0408073" name="Abdulrahim Baba Khil"/>
+                <adm4 code="AF0408007" name="Abtala"/>
+                <adm4 code="AF0408008" name="Adina"/>
+                <adm4 code="AF0408009" name="Ahingar"/>
+                <adm4 code="AF0408002" name="Akhanzada Koodai Baland Khil"/>
+                <adm4 code="AF0408001" name="Akhtar Baba Khil"/>
+                <adm4 code="AF0408074" name="Alanah"/>
+                <adm4 code="AF0408075" name="Ali Khil"/>
+                <adm4 code="AF0408005" name="Alif Khil"/>
+                <adm4 code="AF0408004" name="Allah Yar Baba Khil"/>
+                <adm4 code="AF0408006" name="Aman Khil"/>
+                <adm4 code="AF0408003" name="Aslam Khil"/>
+                <adm4 code="AF0408014" name="Baland Khil"/>
+                <adm4 code="AF0408015" name="Banda"/>
+                <adm4 code="AF0408012" name="Barbar"/>
+                <adm4 code="AF0408013" name="Barghali Mesrikhil"/>
+                <adm4 code="AF0408017" name="Bid Mashk"/>
+                <adm4 code="AF0408011" name="Bocha Khil"/>
+                <adm4 code="AF0408016" name="Boongai"/>
+                <adm4 code="AF0408010" name="Botawaka"/>
+                <adm4 code="AF0408037" name="Danah"/>
+                <adm4 code="AF0408036" name="Dawlana"/>
+                <adm4 code="AF0408039" name="Deh Khar"/>
+                <adm4 code="AF0408038" name="Delawarkhil"/>
+                <adm4 code="AF0408040" name="Diwalak"/>
+                <adm4 code="AF0408082" name="Fazlat Awalkhan"/>
+                <adm4 code="AF0408083" name="Folad Bick"/>
+                <adm4 code="AF0408104" name="Ganda Qul"/>
+                <adm4 code="AF0408076" name="Ghajarak"/>
+                <adm4 code="AF0408081" name="Ghashai"/>
+                <adm4 code="AF0408079" name="Ghawrang"/>
+                <adm4 code="AF0408080" name="Ghoozba"/>
+                <adm4 code="AF0408027" name="Halim Shahr"/>
+                <adm4 code="AF0408028" name="Hamzal Baba Khil"/>
+                <adm4 code="AF0408024" name="Chahardehi"/>
+                <adm4 code="AF0408022" name="Chajah"/>
+                <adm4 code="AF0408023" name="Chakol"/>
+                <adm4 code="AF0408021" name="Chambarak"/>
+                <adm4 code="AF0408026" name="Chino"/>
+                <adm4 code="AF0408025" name="Choka"/>
+                <adm4 code="AF0408020" name="Joshai"/>
+                <adm4 code="AF0408091" name="Kakah"/>
+                <adm4 code="AF0408092" name="Kalandeh"/>
+                <adm4 code="AF0408093" name="Kamal Khil"/>
+                <adm4 code="AF0408094" name="Kamkay Aryab"/>
+                <adm4 code="AF0408095" name="Kamkay Chopan"/>
+                <adm4 code="AF0408096" name="Kamkay Zarin"/>
+                <adm4 code="AF0408090" name="Kariz"/>
+                <adm4 code="AF0408030" name="Khaar"/>
+                <adm4 code="AF0408031" name="Khadran"/>
+                <adm4 code="AF0408034" name="Khaja Noor Baba Khil"/>
+                <adm4 code="AF0408032" name="Khlifa Khil"/>
+                <adm4 code="AF0408033" name="Khwaja Aab"/>
+                <adm4 code="AF0408103" name="Koday"/>
+                <adm4 code="AF0408098" name="Kody Abtala"/>
+                <adm4 code="AF0408101" name="Kooh Shapahi"/>
+                <adm4 code="AF0408102" name="Koohi"/>
+                <adm4 code="AF0408099" name="Koza Alanah"/>
+                <adm4 code="AF0408097" name="Kunjaghatu"/>
+                <adm4 code="AF0408105" name="Laarkai"/>
+                <adm4 code="AF0408106" name="Laghari"/>
+                <adm4 code="AF0408107" name="Leelai"/>
+                <adm4 code="AF0408108" name="Legi Baba Khil"/>
+                <adm4 code="AF0408113" name="Mahmood Abad"/>
+                <adm4 code="AF0408111" name="Majam"/>
+                <adm4 code="AF0408121" name="Mamah"/>
+                <adm4 code="AF0408122" name="Mamah Chahar Diwal"/>
+                <adm4 code="AF0408123" name="Mamah Mohammad"/>
+                <adm4 code="AF0408120" name="Mamal Khil"/>
+                <adm4 code="AF0408115" name="Mardala"/>
+                <adm4 code="AF0408116" name="Mesri Khil"/>
+                <adm4 code="AF0408126" name="Mirzabik"/>
+                <adm4 code="AF0408117" name="Moeen Khil"/>
+                <adm4 code="AF0408112" name="Mohammad Qouli"/>
+                <adm4 code="AF0408125" name="Moka"/>
+                <adm4 code="AF0408124" name="Mousa"/>
+                <adm4 code="AF0408118" name="Mula"/>
+                <adm4 code="AF0408119" name="Mullah Hafiz"/>
+                <adm4 code="AF0408114" name="Murad Khan"/>
+                <adm4 code="AF0408128" name="Naway Shar"/>
+                <adm4 code="AF0408131" name="Piadara"/>
+                <adm4 code="AF0408018" name="Pyadara"/>
+                <adm4 code="AF0408085" name="Qala Halim"/>
+                <adm4 code="AF0408086" name="Qalai Munaar"/>
+                <adm4 code="AF0408084" name="Qaldaro"/>
+                <adm4 code="AF0408087" name="Qoul"/>
+                <adm4 code="AF0408089" name="Qoul Pirak"/>
+                <adm4 code="AF0408088" name="Qul Bigoot"/>
+                <adm4 code="AF0408041" name="Rabat"/>
+                <adm4 code="AF0408045" name="Sabz Sang"/>
+                <adm4 code="AF0408043" name="Sadat Khil"/>
+                <adm4 code="AF0408044" name="Sadat Sarband"/>
+                <adm4 code="AF0408069" name="Saleh Baba Khil"/>
+                <adm4 code="AF0408070" name="Salih Khil Abtala"/>
+                <adm4 code="AF0408057" name="Sanzala"/>
+                <adm4 code="AF0408051" name="Sar Tayb Baba Khil"/>
+                <adm4 code="AF0408052" name="Sarkh Qool"/>
+                <adm4 code="AF0408053" name="Sarkicha"/>
+                <adm4 code="AF0408054" name="Sarkiche Kochian"/>
+                <adm4 code="AF0408055" name="Sarlookh"/>
+                <adm4 code="AF0408056" name="Sarmast Baba Khil"/>
+                <adm4 code="AF0408064" name="Sha Baidak"/>
+                <adm4 code="AF0408068" name="Shair Dagh"/>
+                <adm4 code="AF0408063" name="Shashak Khil"/>
+                <adm4 code="AF0408066" name="Shikh Ali"/>
+                <adm4 code="AF0408046" name="Sia Pitab"/>
+                <adm4 code="AF0408060" name="Sia Qoul"/>
+                <adm4 code="AF0408058" name="Sorkh Kicha"/>
+                <adm4 code="AF0408047" name="Spergen Kochian"/>
+                <adm4 code="AF0408048" name="Star Chopan"/>
+                <adm4 code="AF0408049" name="Star Zarin"/>
+                <adm4 code="AF0408059" name="Susan"/>
+                <adm4 code="AF0408062" name="Syda"/>
+                <adm4 code="AF0408019" name="Taki"/>
+                <adm4 code="AF0408130" name="Vazir Shar"/>
+                <adm4 code="AF0408129" name="Wara China"/>
+                <adm4 code="AF0408071" name="Zamirkhil"/>
+                <adm4 code="AF0408072" name="Zarif Khil"/>
+                <adm4 code="AF0408042" name="Zarra Abtala"/>
+            </adm3>
+            <adm3 code="AF0409" name="Markaz-e-Behsud"/>
+        </adm2>
+        <adm2 code="AF05" name="Logar"/>
+        <adm2 code="AF08" name="Panjsher"/>
+    </adm1>
+    <adm1 code="CH" name="Central Highland">
+        <adm2 code="AF10" name="Bamyan"/>
+        <adm2 code="AF24" name="Daykundi"/>
+    </adm1>
+    <adm1 code="ER" name="Eastern">
+        <adm2 code="AF06" name="Nangarhar"/>
+        <adm2 code="AF07" name="Laghman"/>
+        <adm2 code="AF15" name="Kunar"/>
+        <adm2 code="AF16" name="Nuristan"/>
+    </adm1>
+    <adm1 code="NE" name="North Eastern">
+        <adm2 code="AF09" name="Baghlan"/>
+        <adm2 code="AF17" name="Badakhshan"/>
+        <adm2 code="AF18" name="Takhar"/>
+        <adm2 code="AF19" name="Kunduz"/>
+    </adm1>
+    <adm1 code="NR" name="Northern">
+        <adm2 code="AF20" name="Samangan">
+            <adm3 code="AF2001" name="Aybak"/>
+            <adm3 code="AF2002" name="Hazrat-e-Sultan"/>
+            <adm3 code="AF2003" name="Khuram Wa Sarbagh"/>
+            <adm3 code="AF2004" name="Feroz Nakhchir"/>
+            <adm3 code="AF2005" name="Ruy-e-Duab"/>
+            <adm3 code="AF2006" name="Dara-e-Suf-e-Payin"/>
+            <adm3 code="AF2007" name="Dara-e-Suf-e-Bala"/>
+        </adm2>
+        <adm2 code="AF21" name="Balkh">
+            <adm3 code="AF2101" name="Mazar-e-Sharif">
+                <adm4 code="AF2101000" name="[No village name]"/>
+                <adm4 code="AF2101001" name="Al-habib"/>
+                <adm4 code="AF2101012" name="Ali Chupan"/>
+                <adm4 code="AF2101013" name="Aliabad"/>
+                <adm4 code="AF2101005" name="Bakhtar Poject"/>
+                <adm4 code="AF2101008" name="Dasht Shor"/>
+                <adm4 code="AF2101014" name="Faqir Abad"/>
+                <adm4 code="AF2101018" name="Gozar Khanaqa"/>
+                <adm4 code="AF2101019" name="Gozar Khoja Qatal, Nowabad"/>
+                <adm4 code="AF2101017" name="Gozar Panjshir"/>
+                <adm4 code="AF2101023" name="Hamdard"/>
+                <adm4 code="AF2101016" name="Karte Khalid, East of Talar"/>
+                <adm4 code="AF2101006" name="Khoja Parsa"/>
+                <adm4 code="AF2101007" name="Khuwja Qatal Wali"/>
+                <adm4 code="AF2101021" name="Noor Khoda, Block 1"/>
+                <adm4 code="AF2101022" name="Noor Khoda, Block 2"/>
+                <adm4 code="AF2101020" name="Nowabad Sakhi Abad"/>
+                <adm4 code="AF2101002" name="Omulbelad"/>
+                <adm4 code="AF2101003" name="Proja E Entizar"/>
+                <adm4 code="AF2101004" name="Prozhe Azadi"/>
+                <adm4 code="AF2101015" name="Qala Mir"/>
+                <adm4 code="AF2101009" name="Shahrak Bahristan"/>
+                <adm4 code="AF2101011" name="Shahrak Faizabad"/>
+                <adm4 code="AF2101010" name="Shahrak Fardosi 2, Naw Abad"/>
+            </adm3>
+            <adm3 code="AF2102" name="Nahr-e-Shahi">
+                <adm4 code="AF2102000" name="[No village name]"/>
+                <adm4 code="AF2102002" name="Amanabad"/>
+                <adm4 code="AF2102004" name="Azadi"/>
+                <adm4 code="AF2102001" name="Esteqhlal Bregate"/>
+                <adm4 code="AF2102007" name="Faryabiha"/>
+                <adm4 code="AF2102009" name="Guli-e-Surkh"/>
+                <adm4 code="AF2102005" name="Hazrt-e-Belal"/>
+                <adm4 code="AF2102008" name="Kaj Guzar"/>
+                <adm4 code="AF2102010" name="Manabad"/>
+                <adm4 code="AF2102011" name="Nasim Mahdi"/>
+                <adm4 code="AF2102012" name="Nawabad Yaka Bagh"/>
+                <adm4 code="AF2102003" name="Omid Farda"/>
+                <adm4 code="AF2102013" name="Yeka Bagh"/>
+                <adm4 code="AF2102006" name="Zahidullah-e-Shaheed"/>
+            </adm3>
+            <adm3 code="AF2103" name="Dehdadi"/>
+            <adm3 code="AF2104" name="Charkent"/>
+            <adm3 code="AF2105" name="Marmul"/>
+            <adm3 code="AF2106" name="Balkh"/>
+            <adm3 code="AF2107" name="Sholgareh"/>
+            <adm3 code="AF2108" name="Chemtal">
+                <adm4 code="AF2108000" name="[No village name]"/>
+                <adm4 code="AF2108016" name="Arab Mazari Bala / Faqir Mohammad Khan"/>
+                <adm4 code="AF2108017" name="Arab Mazari Payen"/>
+                <adm4 code="AF2108003" name="Asyab Firqa"/>
+                <adm4 code="AF2108002" name="Asyab Sharaf &amp; Mohajirin"/>
+                <adm4 code="AF2108006" name="Baloch Naw Shahr"/>
+                <adm4 code="AF2108004" name="Barga Afghania"/>
+                <adm4 code="AF2108005" name="Barga Torkmania"/>
+                <adm4 code="AF2108018" name="Fatima Khil"/>
+                <adm4 code="AF2108023" name="Hotaki Naw Shahr"/>
+                <adm4 code="AF2108001" name="Iraniha / Samad Bai"/>
+                <adm4 code="AF2108013" name="Jarqala Naqalin"/>
+                <adm4 code="AF2108012" name="Jarsil Asyab Chari"/>
+                <adm4 code="AF2108014" name="Jui Shor Watani"/>
+                <adm4 code="AF2108019" name="Kakari Nawshahr"/>
+                <adm4 code="AF2108020" name="Kemsani"/>
+                <adm4 code="AF2108021" name="Mirza Qul Jarqala"/>
+                <adm4 code="AF2108022" name="Nawared Taraki Emam Sahib &amp; Toki Molajabar"/>
+                <adm4 code="AF2108007" name="Pashma Qala / Arabha Pashma Qala"/>
+                <adm4 code="AF2108015" name="Shash Paykal"/>
+                <adm4 code="AF2108010" name="Tagabi Emam Sahib"/>
+                <adm4 code="AF2108011" name="Tamrres &amp; Moqoriha"/>
+                <adm4 code="AF2108009" name="Taraki Naw Shahr/ Lalizai"/>
+                <adm4 code="AF2108008" name="Tariki Emam Sahib"/>
+            </adm3>
+            <adm3 code="AF2109" name="Dawlat Abad">
+                <adm4 code="AF2109000" name="[No village name]"/>
+                <adm4 code="AF2109001" name="Arangi"/>
+                <adm4 code="AF2109003" name="Baido"/>
+                <adm4 code="AF2109011" name="Dali"/>
+                <adm4 code="AF2109023" name="Dawlatabad Center"/>
+                <adm4 code="AF2109014" name="Dehnow"/>
+                <adm4 code="AF2109013" name="Delbargin Qazan"/>
+                <adm4 code="AF2109012" name="Deshtan"/>
+                <adm4 code="AF2109002" name="Eslam"/>
+                <adm4 code="AF2109025" name="Hashimabad"/>
+                <adm4 code="AF2109007" name="Hayatan"/>
+                <adm4 code="AF2109006" name="Charbagh Saydan"/>
+                <adm4 code="AF2109005" name="Joye Arab"/>
+                <adm4 code="AF2109010" name="Khair Abad"/>
+                <adm4 code="AF2109008" name="Khalabachagan"/>
+                <adm4 code="AF2109009" name="Khoshhalabad"/>
+                <adm4 code="AF2109024" name="Nakhchir Abad &amp; Asia Bad"/>
+                <adm4 code="AF2109021" name="Qara Ghujola"/>
+                <adm4 code="AF2109022" name="Qultaq"/>
+                <adm4 code="AF2109020" name="Sadarabad"/>
+                <adm4 code="AF2109017" name="Sar e Deh &amp; Pay Mashad"/>
+                <adm4 code="AF2109019" name="Shakh Mugolan"/>
+                <adm4 code="AF2109018" name="Shengel Abad"/>
+                <adm4 code="AF2109016" name="Surkhgunbad"/>
+                <adm4 code="AF2109004" name="Talegak"/>
+                <adm4 code="AF2109026" name="Yakhdan"/>
+                <adm4 code="AF2109015" name="Zadian"/>
+            </adm3>
+            <adm3 code="AF2110" name="Khulm"/>
+            <adm3 code="AF2111" name="Char Bolak"/>
+            <adm3 code="AF2112" name="Shortepa"/>
+            <adm3 code="AF2113" name="Kaldar"/>
+            <adm3 code="AF2114" name="Keshendeh"/>
+            <adm3 code="AF2115" name="Zari"/>
+            <adm3 code="AF2116" name="Sharak-e-Hayratan"/>
+        </adm2>
+        <adm2 code="AF22" name="Sar-e-Pul"/>
+        <adm2 code="AF28" name="Jawzjan"/>
+        <adm2 code="AF29" name="Faryab"/>
+    </adm1>
+    <adm1 code="SE" name="South Eastern">
+        <adm2 code="AF11" name="Ghazni">
+            <adm3 code="AF1101" name="Ghazni"/>
+            <adm3 code="AF1102" name="Wal-e-Muhammad-e-Shahid"/>
+            <adm3 code="AF1103" name="Khwaja Umari"/>
+            <adm3 code="AF1104" name="Waghaz"/>
+            <adm3 code="AF1105" name="Deh Yak"/>
+            <adm3 code="AF1106" name="Jaghatu">
+                <adm4 code="AF1106136" name="Gulbahari"/>
+                <adm4 code="AF1106135" name="Kakrak"/>
+                <adm4 code="AF1106134" name="Qiaq"/>
+                <adm4 code="AF1106133" name="Shaki"/>
+                <adm4 code="AF1106132" name="Turgan"/>
+                <adm4 code="AF1106137" name="Yousof"/>
+            </adm3>
+            <adm3 code="AF1107" name="Andar"/>
+            <adm3 code="AF1108" name="Zanakhan"/>
+            <adm3 code="AF1109" name="Rashidan"/>
+            <adm3 code="AF1110" name="Nawur"/>
+            <adm3 code="AF1111" name="Qara Bagh"/>
+            <adm3 code="AF1112" name="Giro"/>
+            <adm3 code="AF1113" name="Ab Band"/>
+            <adm3 code="AF1114" name="Jaghuri"/>
+            <adm3 code="AF1115" name="Muqur"/>
+            <adm3 code="AF1116" name="Malistan">
+                <adm4 code="AF1116000" name="[No village name]"/>
+                <adm4 code="AF1116002" name="Abdana Bala"/>
+                <adm4 code="AF1116003" name="Abdana Payeen"/>
+                <adm4 code="AF1116001" name="Alqabloo"/>
+                <adm4 code="AF1116005" name="Bewa"/>
+                <adm4 code="AF1116004" name="Boghra"/>
+                <adm4 code="AF1116011" name="Dala"/>
+                <adm4 code="AF1116020" name="Gheghantu"/>
+                <adm4 code="AF1116009" name="Haji"/>
+                <adm4 code="AF1116010" name="Hasan Baloch"/>
+                <adm4 code="AF1116008" name="Jambood"/>
+                <adm4 code="AF1116025" name="Kamarak"/>
+                <adm4 code="AF1116026" name="Kodal"/>
+                <adm4 code="AF1116027" name="Lalchak"/>
+                <adm4 code="AF1116028" name="Markhana"/>
+                <adm4 code="AF1116030" name="Mina Payen Jolga"/>
+                <adm4 code="AF1116029" name="Muklai"/>
+                <adm4 code="AF1116006" name="Pasha Khana"/>
+                <adm4 code="AF1116007" name="Pashi"/>
+                <adm4 code="AF1116021" name="Qochonghatu"/>
+                <adm4 code="AF1116022" name="Qol Adam"/>
+                <adm4 code="AF1116023" name="Qol Khoshy"/>
+                <adm4 code="AF1116024" name="Qol Yakhy"/>
+                <adm4 code="AF1116012" name="Sabz dara"/>
+                <adm4 code="AF1116013" name="Sabzak"/>
+                <adm4 code="AF1116014" name="Sar Jolga"/>
+                <adm4 code="AF1116015" name="Sepai  Sabz Dara"/>
+                <adm4 code="AF1116018" name="Shena Dahi /Pule Payen"/>
+                <adm4 code="AF1116019" name="Sher Dagh"/>
+                <adm4 code="AF1116017" name="Soka"/>
+                <adm4 code="AF1116016" name="Sokhta Sabz Dara"/>
+                <adm4 code="AF1116031" name="Wordeh Payen"/>
+            </adm3>
+            <adm3 code="AF1117" name="Gelan"/>
+            <adm3 code="AF1118" name="Ajristan"/>
+            <adm3 code="AF1119" name="Nawa"/>
+        </adm2>
+        <adm2 code="AF12" name="Paktika"/>
+        <adm2 code="AF13" name="Paktya"/>
+        <adm2 code="AF14" name="Khost">
+            <adm3 code="AF1401" name="Matun"/>
+            <adm3 code="AF1402" name="Mandozayi"/>
+            <adm3 code="AF1403" name="Gurbuz"/>
+            <adm3 code="AF1404" name="Tani"/>
+            <adm3 code="AF1405" name="Musa Khel"/>
+            <adm3 code="AF1406" name="Nadir Shah Kot"/>
+            <adm3 code="AF1407" name="Sabari"/>
+            <adm3 code="AF1408" name="Terezayi"/>
+            <adm3 code="AF1409" name="Bak"/>
+            <adm3 code="AF1410" name="Qalandar"/>
+            <adm3 code="AF1411" name="Spera"/>
+            <adm3 code="AF1412" name="Shamal"/>
+            <adm3 code="AF1413" name="Jaji Maydan"/>
+        </adm2>
+    </adm1>
+    <adm1 code="SR" name="Southern">
+        <adm2 code="AF25" name="Uruzgan"/>
+        <adm2 code="AF26" name="Zabul"/>
+        <adm2 code="AF27" name="Kandahar"/>
+        <adm2 code="AF30" name="Hilmand"/>
+        <adm2 code="AF34" name="Nimroz"/>
+    </adm1>
+    <adm1 code="WR" name="Western">
+        <adm2 code="AF23" name="Ghor"/>
+        <adm2 code="AF31" name="Badghis"/>
+        <adm2 code="AF32" name="Hirat"/>
+        <adm2 code="AF33" name="Farah"/>
+    </adm1>
+</adm0>
