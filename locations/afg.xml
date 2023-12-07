@@ -3,7 +3,6 @@
     <adm1 code="CR" name="Capital">
         <adm2 code="AF01" name="Kabul">
             <adm3 code="AF0101" name="Kabul">
-                <adm4 code="AF0101000" name="[No village name]"/>
                 <adm4 code="AF0101002" name="Deh Khodaidad"/>
                 <adm4 code="AF0101001" name="Char Qalai Chardehi"/>
                 <adm4 code="AF0101006" name="Kart-e-Naw"/>
@@ -32,7 +31,6 @@
             <adm3 code="AF0203" name="Koh Band"/>
             <adm3 code="AF0204" name="Hisa-e-Awal-e-Kohistan"/>
             <adm3 code="AF0205" name="Nijrab">
-                <adm4 code="AF0205000" name="[No village name]"/>
                 <adm4 code="AF0205002" name="Ferozayee"/>
                 <adm4 code="AF0205001" name="Haidar Khail"/>
             </adm3>
@@ -44,12 +42,10 @@
             <adm3 code="AF0401" name="Maydan Shahr"/>
             <adm3 code="AF0402" name="Nerkh"/>
             <adm3 code="AF0403" name="Jalrez">
-                <adm4 code="AF0403000" name="[No village name]"/>
                 <adm4 code="AF0403001" name="Tankalech"/>
             </adm3>
             <adm3 code="AF0404" name="Chak-e-Wardak"/>
             <adm3 code="AF0405" name="Saydabad">
-                <adm4 code="AF0405000" name="[No village name]"/>
                 <adm4 code="AF0405006" name="Ab Dara (Kchonay)"/>
                 <adm4 code="AF0405005" name="Ab Dara (Stara)"/>
                 <adm4 code="AF0405109" name="Abdul Mohay Din"/>
@@ -220,7 +216,6 @@
             </adm3>
             <adm3 code="AF0406" name="Daymirdad"/>
             <adm3 code="AF0407" name="Hesa-e-Awal-e-Behsud">
-                <adm4 code="AF0407000" name="[No village name]"/>
                 <adm4 code="AF0407001" name="Abekak"/>
                 <adm4 code="AF0407003" name="Ajom Qol Shahrak"/>
                 <adm4 code="AF0407004" name="Altarghanagak"/>
@@ -329,7 +324,6 @@
                 <adm4 code="AF0407049" name="Zir Qala"/>
             </adm3>
             <adm3 code="AF0408" name="Jaghatu">
-                <adm4 code="AF0408000" name="[No village name]"/>
                 <adm4 code="AF0408073" name="Abdulrahim Baba Khil"/>
                 <adm4 code="AF0408007" name="Abtala"/>
                 <adm4 code="AF0408008" name="Adina"/>
@@ -483,7 +477,6 @@
         </adm2>
         <adm2 code="AF21" name="Balkh">
             <adm3 code="AF2101" name="Mazar-e-Sharif">
-                <adm4 code="AF2101000" name="[No village name]"/>
                 <adm4 code="AF2101001" name="Al-habib"/>
                 <adm4 code="AF2101012" name="Ali Chupan"/>
                 <adm4 code="AF2101013" name="Aliabad"/>
@@ -509,7 +502,6 @@
                 <adm4 code="AF2101010" name="Shahrak Fardosi 2, Naw Abad"/>
             </adm3>
             <adm3 code="AF2102" name="Nahr-e-Shahi">
-                <adm4 code="AF2102000" name="[No village name]"/>
                 <adm4 code="AF2102002" name="Amanabad"/>
                 <adm4 code="AF2102004" name="Azadi"/>
                 <adm4 code="AF2102001" name="Esteqhlal Bregate"/>
@@ -530,7 +522,6 @@
             <adm3 code="AF2106" name="Balkh"/>
             <adm3 code="AF2107" name="Sholgareh"/>
             <adm3 code="AF2108" name="Chemtal">
-                <adm4 code="AF2108000" name="[No village name]"/>
                 <adm4 code="AF2108016" name="Arab Mazari Bala / Faqir Mohammad Khan"/>
                 <adm4 code="AF2108017" name="Arab Mazari Payen"/>
                 <adm4 code="AF2108003" name="Asyab Firqa"/>
@@ -556,7 +547,6 @@
                 <adm4 code="AF2108008" name="Tariki Emam Sahib"/>
             </adm3>
             <adm3 code="AF2109" name="Dawlat Abad">
-                <adm4 code="AF2109000" name="[No village name]"/>
                 <adm4 code="AF2109001" name="Arangi"/>
                 <adm4 code="AF2109003" name="Baido"/>
                 <adm4 code="AF2109011" name="Dali"/>
@@ -621,7 +611,6 @@
             <adm3 code="AF1114" name="Jaghuri"/>
             <adm3 code="AF1115" name="Muqur"/>
             <adm3 code="AF1116" name="Malistan">
-                <adm4 code="AF1116000" name="[No village name]"/>
                 <adm4 code="AF1116002" name="Abdana Bala"/>
                 <adm4 code="AF1116003" name="Abdana Payeen"/>
                 <adm4 code="AF1116001" name="Alqabloo"/>
