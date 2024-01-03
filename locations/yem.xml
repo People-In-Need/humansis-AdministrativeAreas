@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<adm0 name="Yemen" code="YE">
+    <adm1 code="YE0" name="ADM 1">
+        <adm2 code="YE01" name="ADM 2">
+            <adm3 code="YE0101" name="ADM 3">
+                <adm4 code="YE0101001" name="ADM 4"/>
+            </adm3>
+        </adm2>
+    </adm1>
+</adm0>
