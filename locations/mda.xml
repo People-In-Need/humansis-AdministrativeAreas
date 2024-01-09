@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<adm0 name="MDA" code="MD">
+    <adm1 code="MD0" name="ADM 1">
+        <adm2 code="MD01" name="ADM 2">
+            <adm3 code="MD0101" name="ADM 3">
+                <adm4 code="MD0101001" name="ADM 4"/>
+            </adm3>
+        </adm2>
+    </adm1>
+</adm0>

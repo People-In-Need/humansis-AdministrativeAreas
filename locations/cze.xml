@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<adm0 name="CZE" code="CZ">
+    <adm1 code="CZ0" name="ADM 1">
+        <adm2 code="CZ01" name="ADM 2">
+            <adm3 code="CZ0101" name="ADM 3">
+                <adm4 code="CZ0101001" name="ADM 4"/>
+            </adm3>
+        </adm2>
+    </adm1>
+</adm0>
