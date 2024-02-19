@@ -1,9 +1,78 @@
 <?xml version="1.0"?>
-<adm0 name="COD" code="CD">
-    <adm1 code="CD0" name="ADM 1">
-        <adm2 code="CD01" name="ADM 2">
-            <adm3 code="CD0101" name="ADM 3">
-                <adm4 code="CD0101001" name="ADM 4"/>
+<adm0 name="Democratic Republic of the Congo" code="CD">
+    <adm1 code="CD01" name="Walungu">
+        <adm2 code="CD0001" name="Nyangezi">
+            <adm3 code="CD000001" name="Munya">
+                <adm4 code="CD00000001" name="Cirimba"/>
+                <adm4 code="CD00000002" name="Nguka"/>
+                <adm4 code="CD00000003" name="Camp poste"/>
+                <adm4 code="CD00000004" name="Randahi"/>
+                <adm4 code="CD00000005" name="Munya Kufe"/>
+                <adm4 code="CD00000006" name="Munya centre"/>
+                <adm4 code="CD00000007" name="Cibimbi"/>
+                <adm4 code="CD00000008" name="Kamina"/>
+                <adm4 code="CD00000009" name="Namurambye"/>
+            </adm3>
+            <adm3 code="CD000002" name="Kamanyola">
+                <adm4 code="CD00000010" name="Rubumba"/>
+                <adm4 code="CD00000011" name="Irohero"/>
+                <adm4 code="CD00000012" name="Kayange"/>
+                <adm4 code="CD00000013" name="Kaboya"/>
+                <adm4 code="CD00000014" name="Mulira"/>
+                <adm4 code="CD00000015" name="Busama"/>
+                <adm4 code="CD00000016" name="Kashenyi"/>
+                <adm4 code="CD00000017" name="Kambara"/>
+                <adm4 code="CD00000018" name="Rugenge"/>
+            </adm3>
+        </adm2>
+    </adm1>
+    <adm1 code="CD02" name="Uvira">
+        <adm2 code="CD0002" name="Lemera">
+            <adm3 code="CD000003" name="Bwegera">
+                <adm4 code="CD00000019" name="Nyaruhuhuma"/>
+                <adm4 code="CD00000020" name="Lupango"/>
+                <adm4 code="CD00000021" name="Bwegera 1"/>
+                <adm4 code="CD00000022" name="Bwegera 2"/>
+                <adm4 code="CD00000023" name="Nyabihanga"/>
+            </adm3>
+            <adm3 code="CD000004" name="Langala">
+                <adm4 code="CD00000024" name="Ndare"/>
+                <adm4 code="CD00000025" name="Rubenga"/>
+                <adm4 code="CD00000026" name="Langala Centre"/>
+                <adm4 code="CD00000027" name="Bambiro"/>
+                <adm4 code="CD00000028" name="Kahenge"/>
+                <adm4 code="CD00000029" name="Katyaza"/>
+                <adm4 code="CD00000030" name="Bushokwe"/>
+                <adm4 code="CD00000031" name="Nakirwi"/>
+                <adm4 code="CD00000032" name="Mikora"/>
+            </adm3>
+            <adm3 code="CD000005" name="Katala">
+                <adm4 code="CD00000033" name="Lushama"/>
+                <adm4 code="CD00000034" name="Katala centre"/>
+                <adm4 code="CD00000035" name="Kirija"/>
+                <adm4 code="CD00000036" name="Mugule"/>
+                <adm4 code="CD00000037" name="Mushago"/>
+            </adm3>
+            <adm3 code="CD000006" name="Mulenge">
+                <adm4 code="CD00000038" name="Mulenge 1"/>
+                <adm4 code="CD00000039" name="Mulenge 2"/>
+                <adm4 code="CD00000040" name="Kihinga"/>
+                <adm4 code="CD00000041" name="Mulama"/>
+                <adm4 code="CD00000042" name="Bushajaga"/>
+                <adm4 code="CD00000043" name="Kaduma"/>
+                <adm4 code="CD00000044" name="Kalija"/>
+                <adm4 code="CD00000045" name="Mashuba"/>
+                <adm4 code="CD00000046" name="Butumba"/>
+            </adm3>
+            <adm3 code="CD000007" name="Ndegu">
+                <adm4 code="CD00000047" name="Kitigalwa"/>
+                <adm4 code="CD00000048" name="Muhanga"/>
+                <adm4 code="CD00000049" name="Mushegya"/>
+                <adm4 code="CD00000050" name="Mukimbagiro"/>
+                <adm4 code="CD00000051" name="Kasenya"/>
+                <adm4 code="CD00000052" name="Kyamafuno"/>
+                <adm4 code="CD00000053" name="Kishaje"/>
+                <adm4 code="CD00000054" name="Kagogo"/>
             </adm3>
         </adm2>
     </adm1>
