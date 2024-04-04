@@ -6175,6 +6175,8 @@
                 <adm4 name="Al Etisam  Camp" code="SY070301-3"/>
                 <adm4 name="Al Fruqan Camp" code="SY070301-4"/>
                 <adm4 name="Al Kufir" code="C7407"/>
+                <adm4 name="Al Mazraa Camp" code="C4124-1"/>
+                <adm4 name="Al Mu'atasemoon Camp" code="C6693-1"/>
                 <adm4 name="Al_amal camp" code="C4126-1"/>
                 <adm4 name="Al Omari Camp" code="SY070301-5"/>
                 <adm4 name="AlSaleheen Camp" code="SY070301-6"/>
@@ -6367,6 +6369,7 @@
                 <adm4 name="Tab Issa - Eastern And Western" code="C3870"/>
             </adm3>
             <adm3 name="Maaret Tamsrin" code="SY070005">
+                <adm4 name="Abo Bakr(Batenta) Camp" code="C3947-2"/>
                 <adm4 name="Alaskan Camp" code="SY070005-1"/>
                 <adm4 name="Al Sader Camp" code="SY070005-2"/>
                 <adm4 name="Al shjra Camp" code="SY070005-6"/>
@@ -6392,8 +6395,10 @@
                 <adm4 name="Mawahum rahma Camp" code="SY070005-5"/>
                 <adm4 name="Murin" code="C3946"/>
                 <adm4 name="Ram Hamdan" code="C3941"/>
+                <adm4 name="Rabee Maysrounah Camp" code="C3947-1"/>
                 <adm4 name="Sham Camp" code="SY070005-8"/>
                 <adm4 name="Shekh Bahr" code="C6631"/>
+                <adm4 name="Tajamua Al Rahimoun Camp" code="C3947-3"/>
                 <adm4 name="Tall Sindal" code="C8048"/>
                 <adm4 name="Tal Eskandar Camp" code="SY070005-9"/>
                 <adm4 name="Taltuneh" code="C3940"/>
