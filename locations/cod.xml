@@ -52,6 +52,7 @@
                 <adm4 code="CD00000035" name="Kirija"/>
                 <adm4 code="CD00000036" name="Mugule"/>
                 <adm4 code="CD00000037" name="Mushago"/>
+                <adm4 code="CD00000055" name="Mushegereza"/>
             </adm3>
             <adm3 code="CD000006" name="Mulenge">
                 <adm4 code="CD00000038" name="Mulenge 1"/>
