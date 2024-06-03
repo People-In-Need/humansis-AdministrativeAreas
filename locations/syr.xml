@@ -6174,8 +6174,11 @@
                 <adm4 name="Al Arqam Camp" code="SY070301-2"/>
                 <adm4 name="Al Etisam  Camp" code="SY070301-3"/>
                 <adm4 name="Al Fruqan Camp" code="SY070301-4"/>
+                <adm4 name="Al Hamza" code="C4133-1"/>
+                <adm4 name="Al Jazeera" code="C4134-1"/>
                 <adm4 name="Al Kufir" code="C7407"/>
                 <adm4 name="Al Mazraa Camp" code="C4124-1"/>
+                <adm4 name="Al Majed" code="C4137-1"/>
                 <adm4 name="Al Mu'atasemoon Camp" code="C6693-1"/>
                 <adm4 name="Al_amal camp" code="C4126-1"/>
                 <adm4 name="Al Omari Camp" code="SY070301-5"/>
@@ -6189,6 +6192,8 @@
                 <adm4 name="Burj Elnumra" code="C4128"/>
                 <adm4 name="Dana" code="C4126"/>
                 <adm4 name="Deir Hassan - Darhashan" code="C4129"/>
+                <adm4 name="Ehsas 1" code="C4136-1"/>
+                <adm4 name="Ehsas F2" code="C4131-1"/>
                 <adm4 name="Fteh Dar Camp" code="SY070301-8"/>
                 <adm4 name="Jamiaat Sham Sharif" code="SY070301-9"/>
                 <adm4 name="Hajer Camp" code="SY070301-10"/>
@@ -6198,14 +6203,17 @@
                 <adm4 name="Khan Al Assa Camp" code="SY070301-11"/>
                 <adm4 name="Khataien Ariha Camp 1 of 2" code="SY070301-12"/>
                 <adm4 name="Khataien Ariha Camp 2 of 2" code="SY070301-13"/>
+                <adm4 name="Maan" code="C4130-1"/>
                 <adm4 name="Mashhad Ruhin" code="C6692"/>
                 <adm4 name="Mohamad Alqadour Camp" code="SY070301-14"/>
+                <adm4 name="Moutawa" code="C4135-1"/>
                 <adm4 name="Nour Alsabah Camp" code="SY070301-15"/>
                 <adm4 name="Qah" code="C4131"/>
                 <adm4 name="Qah Camp" code="SY070301-16"/>
                 <adm4 name="Sarjableh" code="C7427"/>
                 <adm4 name="Sarmada" code="C4121"/>
                 <adm4 name="Selwa" code="C4123"/>
+                <adm4 name="Souran" code="C4132-1"/>
                 <adm4 name="Tal Elkaramej" code="C4122"/>
                 <adm4 name="Termanin" code="C4125"/>
                 <adm4 name="Tilaada" code="C4124"/>
@@ -6383,6 +6391,7 @@
                 <adm4 name="Habat" code="C6632"/>
                 <adm4 name="Haranbush" code="C3943"/>
                 <adm4 name="Hazano" code="C3944"/>
+                <adm4 name="Hawija Camp" code="C3939-1"/>
                 <adm4 name="Kafr - Kafrehmul" code="C3942"/>
                 <adm4 name="Kafr Jales" code="C3945"/>
                 <adm4 name="Kafr Nabi" code="C3948"/>
