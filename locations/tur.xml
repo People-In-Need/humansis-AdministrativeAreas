@@ -1,0 +1,624 @@
+<?xml version="1.0" ?>
+<adm0 name="Turkey" code="TR">
+    <adm1 code="TR01" name="Hatay">
+        <adm2 code="TR0101" name="Altınözü">
+            <adm3 code="TR0101001" name="Akamber"/>
+            <adm3 code="TR0101002" name="Akdarı"/>
+            <adm3 code="TR0101003" name="Alakent"/>
+            <adm3 code="TR0101004" name="Altınkaya"/>
+            <adm3 code="TR0101005" name="Atayurdu"/>
+            <adm3 code="TR0101006" name="Avuttepe"/>
+            <adm3 code="TR0101007" name="Babatorun"/>
+            <adm3 code="TR0101008" name="Boynuyoğun"/>
+            <adm3 code="TR0101009" name="Büyükburç"/>
+            <adm3 code="TR0101010" name="Çetenli"/>
+            <adm3 code="TR0101011" name="Dokuzdal"/>
+            <adm3 code="TR0101012" name="Enek"/>
+            <adm3 code="TR0101013" name="Erbaşı"/>
+            <adm3 code="TR0101014" name="Fatikli"/>
+            <adm3 code="TR0101015" name="Gözecik"/>
+            <adm3 code="TR0101016" name="Günvuran"/>
+            <adm3 code="TR0101017" name="Hacıpaşa"/>
+            <adm3 code="TR0101018" name="Hanyolu"/>
+            <adm3 code="TR0101019" name="Kamberli"/>
+            <adm3 code="TR0101020" name="Kansu"/>
+            <adm3 code="TR0101021" name="Karbeyaz"/>
+            <adm3 code="TR0101022" name="Karsu"/>
+            <adm3 code="TR0101023" name="Kazancık"/>
+            <adm3 code="TR0101024" name="Keskincik"/>
+            <adm3 code="TR0101025" name="Kılıçtutan"/>
+            <adm3 code="TR0101026" name="Kıyıgören"/>
+            <adm3 code="TR0101027" name="Kolcular"/>
+            <adm3 code="TR0101028" name="Kozkalesi"/>
+            <adm3 code="TR0101029" name="Kurtmezraası"/>
+            <adm3 code="TR0101030" name="Mayadalı"/>
+            <adm3 code="TR0101031" name="Oymaklı"/>
+            <adm3 code="TR0101032" name="Sarıbük"/>
+            <adm3 code="TR0101033" name="Sarılar"/>
+            <adm3 code="TR0101034" name="Seferli"/>
+            <adm3 code="TR0101035" name="Sivrikavak"/>
+            <adm3 code="TR0101036" name="Sofular"/>
+            <adm3 code="TR0101037" name="Tepehan"/>
+            <adm3 code="TR0101038" name="Tokaçlı"/>
+            <adm3 code="TR0101039" name="Tokdemir"/>
+            <adm3 code="TR0101040" name="Toprakhisar"/>
+            <adm3 code="TR0101041" name="Türkmenmezraası"/>
+            <adm3 code="TR0101042" name="Yanıkpınar"/>
+            <adm3 code="TR0101043" name="Yarseli"/>
+            <adm3 code="TR0101044" name="Yenihisar"/>
+            <adm3 code="TR0101045" name="Yenişehir"/>
+            <adm3 code="TR0101046" name="Yolağzı"/>
+            <adm3 code="TR0101047" name="Yunushanı"/>
+            <adm3 code="TR0101048" name="Ziyaret"/>
+        </adm2>
+        <adm2 code="TR0149" name="Antakya">
+            <adm3 code="TR0149001" name="Açıkdere"/>
+            <adm3 code="TR0149002" name="Akasya"/>
+            <adm3 code="TR0149003" name="Akçaova"/>
+            <adm3 code="TR0149004" name="Akcurun"/>
+            <adm3 code="TR0149005" name="Akevler"/>
+            <adm3 code="TR0149006" name="Akhisar"/>
+            <adm3 code="TR0149007" name="Aksaray"/>
+            <adm3 code="TR0149008" name="Alaattin"/>
+            <adm3 code="TR0149009" name="Alahan"/>
+            <adm3 code="TR0149010" name="Alazı"/>
+            <adm3 code="TR0149011" name="Altınçay"/>
+            <adm3 code="TR0149012" name="Anayazı"/>
+            <adm3 code="TR0149013" name="Apaydın"/>
+            <adm3 code="TR0149014" name="Arpahan"/>
+            <adm3 code="TR0149015" name="Aşağıoba"/>
+            <adm3 code="TR0149016" name="Avsuyu"/>
+            <adm3 code="TR0149017" name="Aydınlıkevler"/>
+            <adm3 code="TR0149018" name="Bağrıyanık"/>
+            <adm3 code="TR0149019" name="Barbaros"/>
+            <adm3 code="TR0149020" name="Biniciler"/>
+            <adm3 code="TR0149021" name="Bitiren"/>
+            <adm3 code="TR0149022" name="Boşin"/>
+            <adm3 code="TR0149023" name="Bozhüyük"/>
+            <adm3 code="TR0149024" name="Büyükdalyan"/>
+            <adm3 code="TR0149025" name="Cebrail"/>
+            <adm3 code="TR0149026" name="Cumhuriyet"/>
+            <adm3 code="TR0149027" name="Demirköprü"/>
+            <adm3 code="TR0149028" name="Derince"/>
+            <adm3 code="TR0149029" name="Dikmece"/>
+            <adm3 code="TR0149030" name="Doğanköy"/>
+            <adm3 code="TR0149031" name="Dutdibi"/>
+            <adm3 code="TR0149032" name="Ekinci"/>
+            <adm3 code="TR0149033" name="Emek"/>
+            <adm3 code="TR0149034" name="Esenlik"/>
+            <adm3 code="TR0149035" name="Esentepe"/>
+            <adm3 code="TR0149036" name="Fevziçakmak"/>
+            <adm3 code="TR0149037" name="Gazi"/>
+            <adm3 code="TR0149038" name="Gazipaşa"/>
+            <adm3 code="TR0149039" name="General Şükrü Kanatlı"/>
+            <adm3 code="TR0149040" name="Gökçegöz"/>
+            <adm3 code="TR0149041" name="Gülderen"/>
+            <adm3 code="TR0149042" name="Güllübahçe"/>
+            <adm3 code="TR0149043" name="Günyazı"/>
+            <adm3 code="TR0149044" name="Güzelburç"/>
+            <adm3 code="TR0149045" name="Habib-i Neccar"/>
+            <adm3 code="TR0149046" name="Hacı Ömer Alpagot"/>
+            <adm3 code="TR0149047" name="Haraparası"/>
+            <adm3 code="TR0149048" name="Hasanlı"/>
+            <adm3 code="TR0149049" name="Havuzlar"/>
+            <adm3 code="TR0149050" name="İplik Pazarı"/>
+            <adm3 code="TR0149051" name="Kantara"/>
+            <adm3 code="TR0149052" name="Karaali"/>
+            <adm3 code="TR0149053" name="Karaalibölüğü"/>
+            <adm3 code="TR0149054" name="Kardeşler"/>
+            <adm3 code="TR0149055" name="Karlısu"/>
+            <adm3 code="TR0149056" name="Kisecik"/>
+            <adm3 code="TR0149057" name="Kışla Saray"/>
+            <adm3 code="TR0149058" name="Kocaabdi"/>
+            <adm3 code="TR0149059" name="Küçükdalyan"/>
+            <adm3 code="TR0149060" name="Kuruyer"/>
+            <adm3 code="TR0149061" name="Kuyulu"/>
+            <adm3 code="TR0149062" name="Kuzeytepe"/>
+            <adm3 code="TR0149063" name="Madenboyu"/>
+            <adm3 code="TR0149064" name="Mansurlu"/>
+            <adm3 code="TR0149065" name="Maraşboğazı"/>
+            <adm3 code="TR0149066" name="Maşuklu"/>
+            <adm3 code="TR0149067" name="Melekli"/>
+            <adm3 code="TR0149068" name="Meydan"/>
+            <adm3 code="TR0149069" name="Narlıca"/>
+            <adm3 code="TR0149070" name="Odabaşı"/>
+            <adm3 code="TR0149071" name="Oğlakören"/>
+            <adm3 code="TR0149072" name="Orhanlı"/>
+            <adm3 code="TR0149073" name="Ovakent"/>
+            <adm3 code="TR0149074" name="Paşaköy"/>
+            <adm3 code="TR0149075" name="Saçaklı"/>
+            <adm3 code="TR0149076" name="Saraycık"/>
+            <adm3 code="TR0149077" name="Saraykent"/>
+            <adm3 code="TR0149078" name="Şehitler"/>
+            <adm3 code="TR0149079" name="Serinyol"/>
+            <adm3 code="TR0149080" name="Şeyhali"/>
+            <adm3 code="TR0149081" name="Şirince"/>
+            <adm3 code="TR0149082" name="Sofular"/>
+            <adm3 code="TR0149083" name="Suvatlı"/>
+            <adm3 code="TR0149084" name="Tahtaköprü"/>
+            <adm3 code="TR0149085" name="Tanışma"/>
+            <adm3 code="TR0149086" name="Üçgedik"/>
+            <adm3 code="TR0149087" name="Ulucami"/>
+            <adm3 code="TR0149088" name="Ürgenpaşa"/>
+            <adm3 code="TR0149089" name="Üzümdalı"/>
+            <adm3 code="TR0149090" name="Uzunaliç"/>
+            <adm3 code="TR0149091" name="Yaylacık"/>
+            <adm3 code="TR0149092" name="Yenicami"/>
+            <adm3 code="TR0149093" name="Yeşilova"/>
+            <adm3 code="TR0149094" name="Zenginler"/>
+            <adm3 code="TR0149095" name="Zülüflühan"/>
+        </adm2>
+        <adm2 code="TR01144" name="Arsuz">
+            <adm3 code="TR01144001" name="Akçalı"/>
+            <adm3 code="TR01144002" name="Arpaçiftlik"/>
+            <adm3 code="TR01144003" name="Arpaderesi"/>
+            <adm3 code="TR01144004" name="Arpagedik"/>
+            <adm3 code="TR01144005" name="Aşağı Kepirce"/>
+            <adm3 code="TR01144006" name="Avcılarsuyu"/>
+            <adm3 code="TR01144007" name="Beyköyü"/>
+            <adm3 code="TR01144008" name="Çetillik"/>
+            <adm3 code="TR01144009" name="Derekuyu"/>
+            <adm3 code="TR01144010" name="Gökmeydan"/>
+            <adm3 code="TR01144011" name="Gözcüler"/>
+            <adm3 code="TR01144012" name="Gülcihan"/>
+            <adm3 code="TR01144013" name="Hacıahmetli"/>
+            <adm3 code="TR01144014" name="Harlısu"/>
+            <adm3 code="TR01144015" name="Haymaseki"/>
+            <adm3 code="TR01144016" name="Helvalı"/>
+            <adm3 code="TR01144017" name="Hüyük"/>
+            <adm3 code="TR01144018" name="Işıklı"/>
+            <adm3 code="TR01144019" name="Kale"/>
+            <adm3 code="TR01144020" name="Karaağaç Cumhuriyet"/>
+            <adm3 code="TR01144021" name="Karaağaç Konarlı"/>
+            <adm3 code="TR01144022" name="Karaağaç Övündük"/>
+            <adm3 code="TR01144023" name="Karaağaç Şarkkonak"/>
+            <adm3 code="TR01144024" name="Karagöz"/>
+            <adm3 code="TR01144025" name="Karahüseyinli"/>
+            <adm3 code="TR01144026" name="Kışla"/>
+            <adm3 code="TR01144027" name="Konacık"/>
+            <adm3 code="TR01144028" name="Kozaklı"/>
+            <adm3 code="TR01144029" name="Kurtbağı"/>
+            <adm3 code="TR01144030" name="Madenli"/>
+            <adm3 code="TR01144031" name="Nardüzü"/>
+            <adm3 code="TR01144032" name="Nergizlik"/>
+            <adm3 code="TR01144033" name="Pirinçlik"/>
+            <adm3 code="TR01144034" name="Tatarlı"/>
+            <adm3 code="TR01144035" name="Tülek"/>
+            <adm3 code="TR01144036" name="Üçgüllük"/>
+            <adm3 code="TR01144037" name="Uluçınar"/>
+            <adm3 code="TR01144038" name="Yukarıkepirce"/>
+        </adm2>
+        <adm2 code="TR01182" name="Belen">
+            <adm3 code="TR01182001" name="Atik"/>
+            <adm3 code="TR01182002" name="Bakras"/>
+            <adm3 code="TR01182003" name="Benlidere"/>
+            <adm3 code="TR01182004" name="Çakallı"/>
+            <adm3 code="TR01182005" name="Çerçikaya"/>
+            <adm3 code="TR01182006" name="Cumhuriyet"/>
+            <adm3 code="TR01182007" name="Derebahçe"/>
+            <adm3 code="TR01182008" name="Fatih"/>
+            <adm3 code="TR01182009" name="Halilbey"/>
+            <adm3 code="TR01182010" name="İssume"/>
+            <adm3 code="TR01182011" name="Kıcı"/>
+            <adm3 code="TR01182012" name="Kömürçukuru"/>
+            <adm3 code="TR01182013" name="Müftüler"/>
+            <adm3 code="TR01182014" name="Muhlisali"/>
+            <adm3 code="TR01182015" name="Ötençay"/>
+            <adm3 code="TR01182016" name="Sarımazı"/>
+            <adm3 code="TR01182017" name="Şekere"/>
+            <adm3 code="TR01182018" name="Şenbük"/>
+            <adm3 code="TR01182019" name="Soğukoluk"/>
+        </adm2>
+        <adm2 code="TR01201" name="Defne">
+            <adm3 code="TR01201001" name="Akdeniz"/>
+            <adm3 code="TR01201002" name="Aknehir"/>
+            <adm3 code="TR01201003" name="Armutlu"/>
+            <adm3 code="TR01201004" name="Aşağıokçular"/>
+            <adm3 code="TR01201005" name="Bahçeköy"/>
+            <adm3 code="TR01201006" name="Balıklıdere"/>
+            <adm3 code="TR01201007" name="Ballıöz"/>
+            <adm3 code="TR01201008" name="Bostancık"/>
+            <adm3 code="TR01201009" name="Büyükçat"/>
+            <adm3 code="TR01201010" name="Çardaklı"/>
+            <adm3 code="TR01201011" name="Çekmece"/>
+            <adm3 code="TR01201012" name="Çınarlı"/>
+            <adm3 code="TR01201013" name="Çökek"/>
+            <adm3 code="TR01201014" name="Değirmenyolu"/>
+            <adm3 code="TR01201015" name="Döver"/>
+            <adm3 code="TR01201016" name="Dursunlu"/>
+            <adm3 code="TR01201017" name="Elektrik"/>
+            <adm3 code="TR01201018" name="Gümüşgöze"/>
+            <adm3 code="TR01201019" name="Güneysöğüt"/>
+            <adm3 code="TR01201020" name="Hancağız"/>
+            <adm3 code="TR01201021" name="Harbiye"/>
+            <adm3 code="TR01201022" name="Hüseyinli"/>
+            <adm3 code="TR01201023" name="Karşıyaka"/>
+            <adm3 code="TR01201024" name="Koçören"/>
+            <adm3 code="TR01201025" name="Meydancık"/>
+            <adm3 code="TR01201026" name="Orhanlı"/>
+            <adm3 code="TR01201027" name="Özbek"/>
+            <adm3 code="TR01201028" name="Samankaya"/>
+            <adm3 code="TR01201029" name="Sinanlı"/>
+            <adm3 code="TR01201030" name="Subaşı"/>
+            <adm3 code="TR01201031" name="Sümerler"/>
+            <adm3 code="TR01201032" name="Tavla"/>
+            <adm3 code="TR01201033" name="Toygarlı"/>
+            <adm3 code="TR01201034" name="Turunçlu"/>
+            <adm3 code="TR01201035" name="Üzengili"/>
+            <adm3 code="TR01201036" name="Yeniçağ"/>
+            <adm3 code="TR01201037" name="Yeşilpınar"/>
+        </adm2>
+        <adm2 code="TR01238" name="Dörtyol">
+            <adm3 code="TR01238001" name="Altınçağ"/>
+            <adm3 code="TR01238002" name="Çatköy"/>
+            <adm3 code="TR01238003" name="Çaylı"/>
+            <adm3 code="TR01238004" name="Kapılı"/>
+            <adm3 code="TR01238005" name="Karakese"/>
+            <adm3 code="TR01238006" name="Kışlalar"/>
+            <adm3 code="TR01238007" name="Konaklı"/>
+            <adm3 code="TR01238008" name="Kuzuculu"/>
+            <adm3 code="TR01238009" name="Numune Evler"/>
+            <adm3 code="TR01238010" name="Ocaklı"/>
+            <adm3 code="TR01238011" name="Özerli"/>
+            <adm3 code="TR01238012" name="Sanayi"/>
+            <adm3 code="TR01238013" name="Yeniyurt"/>
+            <adm3 code="TR01238014" name="Yeşil"/>
+            <adm3 code="TR01238015" name="Yeşilköy"/>
+        </adm2>
+        <adm2 code="TR01253" name="Erzin">
+            <adm3 code="TR01253001" name="Aşağıburnaz"/>
+            <adm3 code="TR01253002" name="Bahçelievler"/>
+            <adm3 code="TR01253003" name="Başlamış"/>
+            <adm3 code="TR01253004" name="Cumhuriyet"/>
+            <adm3 code="TR01253005" name="Gökdere"/>
+            <adm3 code="TR01253006" name="Gökgöl"/>
+            <adm3 code="TR01253007" name="Hürriyet"/>
+            <adm3 code="TR01253008" name="İsalı"/>
+            <adm3 code="TR01253009" name="İstiklal"/>
+            <adm3 code="TR01253010" name="Karamustafalı"/>
+            <adm3 code="TR01253011" name="Kızlarçayı"/>
+            <adm3 code="TR01253012" name="Kuyuluk"/>
+            <adm3 code="TR01253013" name="Mahmutlu"/>
+            <adm3 code="TR01253014" name="Mustafalı"/>
+            <adm3 code="TR01253015" name="Şükrü Paşa"/>
+            <adm3 code="TR01253016" name="Turunçlu"/>
+            <adm3 code="TR01253017" name="Yeni"/>
+            <adm3 code="TR01253018" name="Yeşiltepe"/>
+            <adm3 code="TR01253019" name="Yoncadüzü"/>
+            <adm3 code="TR01253020" name="Yukarıburnaz"/>
+        </adm2>
+        <adm2 code="TR01273" name="Hassa">
+            <adm3 code="TR01273001" name="15 Kasım"/>
+            <adm3 code="TR01273002" name="Akbez"/>
+            <adm3 code="TR01273003" name="Akkülek"/>
+            <adm3 code="TR01273004" name="Aktepe"/>
+            <adm3 code="TR01273005" name="Ardıçlı"/>
+            <adm3 code="TR01273006" name="Arpalıuşağı"/>
+            <adm3 code="TR01273007" name="Aşağıkarafakılı"/>
+            <adm3 code="TR01273008" name="Bademli"/>
+            <adm3 code="TR01273009" name="Bintaş"/>
+            <adm3 code="TR01273010" name="Buhara"/>
+            <adm3 code="TR01273011" name="Çay"/>
+            <adm3 code="TR01273012" name="Çınarbaşı"/>
+            <adm3 code="TR01273013" name="Dedemli"/>
+            <adm3 code="TR01273014" name="Demrek"/>
+            <adm3 code="TR01273015" name="Dervişpaşa"/>
+            <adm3 code="TR01273016" name="Eğribucak"/>
+            <adm3 code="TR01273017" name="Gazeluşağı"/>
+            <adm3 code="TR01273018" name="Girne"/>
+            <adm3 code="TR01273019" name="Gülkent"/>
+            <adm3 code="TR01273020" name="Gülpınar"/>
+            <adm3 code="TR01273021" name="Güvenç"/>
+            <adm3 code="TR01273022" name="Hacılar"/>
+            <adm3 code="TR01273023" name="Haydarlar"/>
+            <adm3 code="TR01273024" name="Katranlık"/>
+            <adm3 code="TR01273025" name="Koruhüyük"/>
+            <adm3 code="TR01273026" name="Küreci"/>
+            <adm3 code="TR01273027" name="Mazmanlı"/>
+            <adm3 code="TR01273028" name="Sapanözü"/>
+            <adm3 code="TR01273029" name="Söğüt"/>
+            <adm3 code="TR01273030" name="Sugediği"/>
+            <adm3 code="TR01273031" name="Tepebaşı"/>
+            <adm3 code="TR01273032" name="Tiyek"/>
+            <adm3 code="TR01273033" name="Yeni"/>
+            <adm3 code="TR01273034" name="Yeniyapan"/>
+            <adm3 code="TR01273035" name="Yoluklar"/>
+            <adm3 code="TR01273036" name="Yukarıbucak"/>
+            <adm3 code="TR01273037" name="Yukarıkarafakılı"/>
+            <adm3 code="TR01273038" name="Yuvalı"/>
+            <adm3 code="TR01273039" name="Zeytinoba"/>
+        </adm2>
+        <adm2 code="TR01312" name="İskenderun">
+            <adm3 code="TR01312001" name="Akarca"/>
+            <adm3 code="TR01312002" name="Akçay"/>
+            <adm3 code="TR01312003" name="Aşkarbeyli"/>
+            <adm3 code="TR01312004" name="Azganlık"/>
+            <adm3 code="TR01312005" name="Barbaros"/>
+            <adm3 code="TR01312006" name="Barıştepe"/>
+            <adm3 code="TR01312007" name="Bekbele"/>
+            <adm3 code="TR01312008" name="Bitişik"/>
+            <adm3 code="TR01312009" name="Buluttepe"/>
+            <adm3 code="TR01312010" name="Büyükdere"/>
+            <adm3 code="TR01312011" name="Çay"/>
+            <adm3 code="TR01312012" name="Cebike"/>
+            <adm3 code="TR01312013" name="Çınarlı"/>
+            <adm3 code="TR01312014" name="Cırtıman"/>
+            <adm3 code="TR01312015" name="Cumhuriyet"/>
+            <adm3 code="TR01312016" name="Denizciler"/>
+            <adm3 code="TR01312017" name="Dumlupınar"/>
+            <adm3 code="TR01312018" name="Esentepe"/>
+            <adm3 code="TR01312019" name="Fatihsultan"/>
+            <adm3 code="TR01312020" name="Gültepe"/>
+            <adm3 code="TR01312021" name="Gürsel"/>
+            <adm3 code="TR01312022" name="Güzelçay"/>
+            <adm3 code="TR01312023" name="Hürriyet"/>
+            <adm3 code="TR01312024" name="İsmet İnönü"/>
+            <adm3 code="TR01312025" name="Kaledibi"/>
+            <adm3 code="TR01312026" name="Karayılan"/>
+            <adm3 code="TR01312027" name="Kavaklıoluk"/>
+            <adm3 code="TR01312028" name="Kocatepe"/>
+            <adm3 code="TR01312029" name="Kurtuluş"/>
+            <adm3 code="TR01312030" name="Meydan"/>
+            <adm3 code="TR01312031" name="Modernevler"/>
+            <adm3 code="TR01312032" name="Muradiye"/>
+            <adm3 code="TR01312033" name="Mustafa Kemal"/>
+            <adm3 code="TR01312034" name="Numune"/>
+            <adm3 code="TR01312035" name="Orhangazi"/>
+            <adm3 code="TR01312036" name="Pınarbaşı"/>
+            <adm3 code="TR01312037" name="Pirireis"/>
+            <adm3 code="TR01312038" name="Sakarya"/>
+            <adm3 code="TR01312039" name="Sarıseki"/>
+            <adm3 code="TR01312040" name="Savaş"/>
+            <adm3 code="TR01312041" name="Suçıkağı"/>
+            <adm3 code="TR01312042" name="Süleymaniye"/>
+            <adm3 code="TR01312043" name="Yenişehir"/>
+            <adm3 code="TR01312044" name="Yıldırımtepe"/>
+            <adm3 code="TR01312045" name="Yunusemre"/>
+        </adm2>
+        <adm2 code="TR01357" name="Kırıkhan">
+            <adm3 code="TR01357001" name="408 Evler "/>
+            <adm3 code="TR01357002" name="Abalaklı "/>
+            <adm3 code="TR01357003" name="Adalar "/>
+            <adm3 code="TR01357004" name="Aktutan "/>
+            <adm3 code="TR01357005" name="Alaybeyli "/>
+            <adm3 code="TR01357006" name="Alibeyçağıllı "/>
+            <adm3 code="TR01357007" name="Alparslan "/>
+            <adm3 code="TR01357008" name="Alsancak "/>
+            <adm3 code="TR01357009" name="Arkıtça "/>
+            <adm3 code="TR01357010" name="Aydınlı "/>
+            <adm3 code="TR01357011" name="Bahçelievler "/>
+            <adm3 code="TR01357012" name="Balarmudu "/>
+            <adm3 code="TR01357013" name="Baldıran "/>
+            <adm3 code="TR01357014" name="Barbaros "/>
+            <adm3 code="TR01357015" name="Başpınar "/>
+            <adm3 code="TR01357016" name="Bektaşlı "/>
+            <adm3 code="TR01357017" name="Çamseki "/>
+            <adm3 code="TR01357018" name="Çankaya "/>
+            <adm3 code="TR01357019" name="Çataltepe"/>
+            <adm3 code="TR01357020" name="Ceylanlı "/>
+            <adm3 code="TR01357021" name="Çiloğlanhüyüğü "/>
+            <adm3 code="TR01357022" name="Cumhuriyet "/>
+            <adm3 code="TR01357023" name="Danaahmetli "/>
+            <adm3 code="TR01357024" name="Dedeçınar "/>
+            <adm3 code="TR01357025" name="Delibekirli "/>
+            <adm3 code="TR01357026" name="Fatih "/>
+            <adm3 code="TR01357027" name="Gazi "/>
+            <adm3 code="TR01357028" name="Gölbaşı "/>
+            <adm3 code="TR01357029" name="Gündüz "/>
+            <adm3 code="TR01357030" name="Güventaşı "/>
+            <adm3 code="TR01357031" name="Güzelce "/>
+            <adm3 code="TR01357032" name="İçada "/>
+            <adm3 code="TR01357033" name="Ilıkpınar "/>
+            <adm3 code="TR01357034" name="Kamberlikaya "/>
+            <adm3 code="TR01357035" name="Kamışlar "/>
+            <adm3 code="TR01357036" name="Kangallar "/>
+            <adm3 code="TR01357037" name="Karaçağıl"/>
+            <adm3 code="TR01357038" name="Karadurmuşlu "/>
+            <adm3 code="TR01357039" name="Karaelmaslı "/>
+            <adm3 code="TR01357040" name="Karamağara "/>
+            <adm3 code="TR01357041" name="Karamankaşı "/>
+            <adm3 code="TR01357042" name="Karataş "/>
+            <adm3 code="TR01357043" name="Kazkeli "/>
+            <adm3 code="TR01357044" name="Kızılkaya "/>
+            <adm3 code="TR01357045" name="Kodallı "/>
+            <adm3 code="TR01357046" name="Kurtlusarımazı "/>
+            <adm3 code="TR01357047" name="KURTLUSOĞUKSU "/>
+            <adm3 code="TR01357048" name="Kurtuluş "/>
+            <adm3 code="TR01357049" name="Mahmutlu "/>
+            <adm3 code="TR01357050" name="Menderes "/>
+            <adm3 code="TR01357051" name="Mimarsinan "/>
+            <adm3 code="TR01357052" name="Muratpaşa "/>
+            <adm3 code="TR01357053" name="Narlıhopur "/>
+            <adm3 code="TR01357054" name="Özkızılkaya "/>
+            <adm3 code="TR01357055" name="Özsoğuksu "/>
+            <adm3 code="TR01357056" name="Özyörük "/>
+            <adm3 code="TR01357057" name="Reşatlı "/>
+            <adm3 code="TR01357058" name="Saylak "/>
+            <adm3 code="TR01357059" name="Söğütlüöz "/>
+            <adm3 code="TR01357060" name="Sucuköy "/>
+            <adm3 code="TR01357061" name="Taşoluk "/>
+            <adm3 code="TR01357062" name="Topboğazı "/>
+            <adm3 code="TR01357063" name="Torun "/>
+            <adm3 code="TR01357064" name="Yeni "/>
+            <adm3 code="TR01357065" name="Yılanlı "/>
+        </adm2>
+        <adm2 code="TR01422" name="Payas">
+            <adm3 code="TR01422001" name="Bayraktepe"/>
+            <adm3 code="TR01422002" name="Çağlalık"/>
+            <adm3 code="TR01422003" name="Cumhuriyet"/>
+            <adm3 code="TR01422004" name="Fatih"/>
+            <adm3 code="TR01422005" name="İstiklal"/>
+            <adm3 code="TR01422006" name="Karacami"/>
+            <adm3 code="TR01422007" name="Karbeyaz"/>
+            <adm3 code="TR01422008" name="Karşı"/>
+            <adm3 code="TR01422009" name="Kozludere"/>
+            <adm3 code="TR01422010" name="Kürtül"/>
+            <adm3 code="TR01422011" name="Sincan"/>
+            <adm3 code="TR01422012" name="Yenişehir"/>
+            <adm3 code="TR01422013" name="Yıldırım Beyazıt"/>
+        </adm2>
+        <adm2 code="TR01435" name="Kumlu">
+            <adm3 code="TR01435001" name="Akkerpiç"/>
+            <adm3 code="TR01435002" name="Akkuyu"/>
+            <adm3 code="TR01435003" name="Akpınar"/>
+            <adm3 code="TR01435004" name="Aktaş"/>
+            <adm3 code="TR01435005" name="Batıayrancı"/>
+            <adm3 code="TR01435006" name="Cumhuriyet"/>
+            <adm3 code="TR01435007" name="Doğuayrancı"/>
+            <adm3 code="TR01435008" name="Fevziçakmak"/>
+            <adm3 code="TR01435009" name="Gökçeoğlu"/>
+            <adm3 code="TR01435010" name="Gülova"/>
+            <adm3 code="TR01435011" name="Hamam"/>
+            <adm3 code="TR01435012" name="Hatayhamamı"/>
+            <adm3 code="TR01435013" name="Kaletepe"/>
+            <adm3 code="TR01435014" name="Kelli"/>
+            <adm3 code="TR01435015" name="Kırcaoğlu"/>
+            <adm3 code="TR01435016" name="Muharrem"/>
+        </adm2>
+        <adm2 code="TR01451" name="Reyhanlı">
+            <adm3 code="TR01451001" name="15 Temmuz "/>
+            <adm3 code="TR01451002" name="Adabucağı "/>
+            <adm3 code="TR01451003" name="Ahmetbeyli "/>
+            <adm3 code="TR01451004" name="Akyayla "/>
+            <adm3 code="TR01451005" name="Alakuzu "/>
+            <adm3 code="TR01451006" name="Bağlar "/>
+            <adm3 code="TR01451007" name="Bahçelievler "/>
+            <adm3 code="TR01451008" name="Bayır "/>
+            <adm3 code="TR01451009" name="Beşaslan "/>
+            <adm3 code="TR01451010" name="Bükülmez "/>
+            <adm3 code="TR01451011" name="Çakıryiğit "/>
+            <adm3 code="TR01451012" name="Cilvegözü "/>
+            <adm3 code="TR01451013" name="Cüdeyde "/>
+            <adm3 code="TR01451014" name="Cumhuriyet "/>
+            <adm3 code="TR01451015" name="Davutpaşahüyüğü "/>
+            <adm3 code="TR01451016" name="Değirmenkaşı "/>
+            <adm3 code="TR01451017" name="Esentepe "/>
+            <adm3 code="TR01451018" name="Fevzipaşa "/>
+            <adm3 code="TR01451019" name="Fidanlık"/>
+            <adm3 code="TR01451020" name="Gazimürseltepesi "/>
+            <adm3 code="TR01451021" name="Göktepe "/>
+            <adm3 code="TR01451022" name="Gültepe "/>
+            <adm3 code="TR01451023" name="Harran "/>
+            <adm3 code="TR01451024" name="Karacanlık "/>
+            <adm3 code="TR01451025" name="Karahüyük "/>
+            <adm3 code="TR01451026" name="Karasüleymanlı "/>
+            <adm3 code="TR01451027" name="Konuk "/>
+            <adm3 code="TR01451028" name="Kuletepe "/>
+            <adm3 code="TR01451029" name="Kumtepe "/>
+            <adm3 code="TR01451030" name="Kurtuluş "/>
+            <adm3 code="TR01451031" name="Kuşaklı "/>
+            <adm3 code="TR01451032" name="Mehmetbeyli "/>
+            <adm3 code="TR01451033" name="Mustafa Kemal "/>
+            <adm3 code="TR01451034" name="Nergizli Mahallesi "/>
+            <adm3 code="TR01451035" name="Oğulpınar "/>
+            <adm3 code="TR01451036" name="Öz Kurtuluş "/>
+            <adm3 code="TR01451037" name="Paşahöyük"/>
+            <adm3 code="TR01451038" name="Paşaköy "/>
+            <adm3 code="TR01451039" name="Pınarbaşı "/>
+            <adm3 code="TR01451040" name="Suluköy "/>
+            <adm3 code="TR01451041" name="Tayfur sökmen"/>
+            <adm3 code="TR01451042" name="Terzihüyük "/>
+            <adm3 code="TR01451043" name="Üçtepe "/>
+            <adm3 code="TR01451044" name="Uzunkavak "/>
+            <adm3 code="TR01451045" name="Varışlı "/>
+            <adm3 code="TR01451046" name="Yeni "/>
+            <adm3 code="TR01451047" name="Yenişehir "/>
+            <adm3 code="TR01451048" name="Yeşilova"/>
+            <adm3 code="TR01451049" name="Yıldız "/>
+            <adm3 code="TR01451050" name="Zeytin Dalı "/>
+        </adm2>
+        <adm2 code="TR01501" name="Samandağ">
+            <adm3 code="TR01501001" name="Ataköy"/>
+            <adm3 code="TR01501002" name="Atatürk"/>
+            <adm3 code="TR01501003" name="Avcılar"/>
+            <adm3 code="TR01501004" name="Batıayaz"/>
+            <adm3 code="TR01501005" name="Büyükoba"/>
+            <adm3 code="TR01501006" name="Çamlıyayla"/>
+            <adm3 code="TR01501007" name="Çanakoluk"/>
+            <adm3 code="TR01501008" name="Cemalgürsel"/>
+            <adm3 code="TR01501009" name="Ceylandere"/>
+            <adm3 code="TR01501010" name="Çiğdede"/>
+            <adm3 code="TR01501011" name="Çöğürlü"/>
+            <adm3 code="TR01501012" name="Çubuklu"/>
+            <adm3 code="TR01501013" name="Cumhuriyet"/>
+            <adm3 code="TR01501014" name="Değirmenbaşı"/>
+            <adm3 code="TR01501015" name="Deniz"/>
+            <adm3 code="TR01501016" name="Eriklikuyu"/>
+            <adm3 code="TR01501017" name="Fidanlı"/>
+            <adm3 code="TR01501018" name="Gözene"/>
+            <adm3 code="TR01501019" name="Hıdırbey"/>
+            <adm3 code="TR01501020" name="Huzurlu"/>
+            <adm3 code="TR01501021" name="Kapısuyu"/>
+            <adm3 code="TR01501022" name="Karaçay"/>
+            <adm3 code="TR01501023" name="Koyunoğlu"/>
+            <adm3 code="TR01501024" name="Kurtderesi"/>
+            <adm3 code="TR01501025" name="Kuşalanı"/>
+            <adm3 code="TR01501026" name="Mağaracık"/>
+            <adm3 code="TR01501027" name="Meydan"/>
+            <adm3 code="TR01501028" name="Mızraklı"/>
+            <adm3 code="TR01501029" name="Seldiren"/>
+            <adm3 code="TR01501030" name="Şükrü Kanatlı"/>
+            <adm3 code="TR01501031" name="Sutaşı"/>
+            <adm3 code="TR01501032" name="Tekebaşı"/>
+            <adm3 code="TR01501033" name="Tomruksuyu"/>
+            <adm3 code="TR01501034" name="Uzunbağ"/>
+            <adm3 code="TR01501035" name="Vakıflı"/>
+            <adm3 code="TR01501036" name="Yaylıca"/>
+            <adm3 code="TR01501037" name="Yeni"/>
+            <adm3 code="TR01501038" name="Yeniköy"/>
+            <adm3 code="TR01501039" name="Yeşilada"/>
+            <adm3 code="TR01501040" name="Yeşilköy"/>
+            <adm3 code="TR01501041" name="Yeşilyazı"/>
+            <adm3 code="TR01501042" name="Yoğunoluk"/>
+        </adm2>
+        <adm2 code="TR01543" name="Yayladağı">
+            <adm3 code="TR01543001" name="Arslanyazı"/>
+            <adm3 code="TR01543002" name="Aşağıpulluyazı"/>
+            <adm3 code="TR01543003" name="Aydınbahçe"/>
+            <adm3 code="TR01543004" name="Ayışığı"/>
+            <adm3 code="TR01543005" name="Bezge"/>
+            <adm3 code="TR01543006" name="Bozlu"/>
+            <adm3 code="TR01543007" name="Çabala"/>
+            <adm3 code="TR01543008" name="Çakıköy"/>
+            <adm3 code="TR01543009" name="Çaksına"/>
+            <adm3 code="TR01543010" name="Çamaltı"/>
+            <adm3 code="TR01543011" name="Çandır"/>
+            <adm3 code="TR01543012" name="Çatbaşı"/>
+            <adm3 code="TR01543013" name="Çayır"/>
+            <adm3 code="TR01543014" name="Denizgören"/>
+            <adm3 code="TR01543015" name="Dusduru"/>
+            <adm3 code="TR01543016" name="Eğerci"/>
+            <adm3 code="TR01543017" name="Görentaş"/>
+            <adm3 code="TR01543018" name="Gözlüce"/>
+            <adm3 code="TR01543019" name="Gürışık"/>
+            <adm3 code="TR01543020" name="Güveççi"/>
+            <adm3 code="TR01543021" name="Güzelyurt"/>
+            <adm3 code="TR01543022" name="Hisarcık"/>
+            <adm3 code="TR01543023" name="Karacurun"/>
+            <adm3 code="TR01543024" name="Karaköse"/>
+            <adm3 code="TR01543025" name="Kışlak"/>
+            <adm3 code="TR01543026" name="Kızılçat"/>
+            <adm3 code="TR01543027" name="Kösrelik"/>
+            <adm3 code="TR01543028" name="Kulaç"/>
+            <adm3 code="TR01543029" name="Kurtuluş"/>
+            <adm3 code="TR01543030" name="Leylekli"/>
+            <adm3 code="TR01543031" name="Olgunlar"/>
+            <adm3 code="TR01543032" name="Şakşak"/>
+            <adm3 code="TR01543033" name="Sebenoba"/>
+            <adm3 code="TR01543034" name="Şenköy"/>
+            <adm3 code="TR01543035" name="Sungur"/>
+            <adm3 code="TR01543036" name="Sürütme"/>
+            <adm3 code="TR01543037" name="Turfanda"/>
+            <adm3 code="TR01543038" name="Tutlubahçe"/>
+            <adm3 code="TR01543039" name="Üçırmak"/>
+            <adm3 code="TR01543040" name="Uluyol"/>
+            <adm3 code="TR01543041" name="Yalaz"/>
+            <adm3 code="TR01543042" name="Yayıkdamlar"/>
+            <adm3 code="TR01543043" name="Yeniceköy"/>
+            <adm3 code="TR01543044" name="Yeşiltepe"/>
+            <adm3 code="TR01543045" name="Yoncakaya"/>
+            <adm3 code="TR01543046" name="Yukarıokçular"/>
+            <adm3 code="TR01543047" name="Yukarıpulluyazı"/>
+        </adm2>
+    </adm1>
+</adm0>
