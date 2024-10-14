@@ -2641,6 +2641,7 @@
                 <adm4 name="Tuwama" code="C1020"/>
                 <adm4 name="Western Kafr Jum" code="C1040"/>
                 <adm4 name="Zitan Camp" code="SY020001-4"/>
+                <adm4 name="Zumra Camp" code="SY020001-5"/>
             </adm3>
             <adm3 name="Daret Azza" code="SY020004">
                 <adm4 name="Anjara" code="C1144"/>
@@ -6413,6 +6414,7 @@
                 <adm4 name="Taltuneh" code="C3940"/>
                 <adm4 name="Zardana Mashehad" code="C3938"/>
                 <adm4 name="Kafr Nabi/Dar Al Salam Camp" code="C3948-1"/>
+                <adm4 name="Al Oruba Camp" code="SY070005-10"/>
             </adm3>
             <adm3 name="Saraqab" code="SY070003">
                 <adm4 name="Abul Khos" code="C3914"/>
