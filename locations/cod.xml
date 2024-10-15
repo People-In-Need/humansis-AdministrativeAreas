@@ -77,4 +77,18 @@
             </adm3>
         </adm2>
     </adm1>
+    <adm1 code="CD03" name="Kalehe">
+        <adm2 code="CD0003" name="Minova">
+            <adm3 code="CD000008" name="Cheya">
+                <adm4 code="CD00000056" name="Cheya"/>
+                <adm4 code="CD00000057" name="Bushushu"/>
+                <adm4 code="CD00000058" name="Chegera"/>
+                <adm4 code="CD00000059" name="Mulungulirwa"/>
+                <adm4 code="CD00000060" name="Lulunga"/>
+                <adm4 code="CD00000061" name="Birambo 1"/>
+                <adm4 code="CD00000062" name="Birambo 2"/>
+                <adm4 code="CD00000063" name="Katolo"/>
+            </adm3>
+        </adm2>
+    </adm1>
 </adm0>
