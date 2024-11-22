@@ -88,6 +88,14 @@
                 <adm4 code="CD00000061" name="Birambo 1"/>
                 <adm4 code="CD00000062" name="Birambo 2"/>
                 <adm4 code="CD00000063" name="Katolo"/>
+                <adm4 code="CD00000064" name="CBCA"/>
+                <adm4 code="CD00000065" name="Lulungamulungulirwa"/>
+            </adm3>
+            <adm3 code="CD000009" name="Kisongati">
+                <adm4 code="CD00000066" name="Kaloba"/>
+                <adm4 code="CD00000067" name="Kisongati"/>
+                <adm4 code="CD00000068" name="Nyakagezi"/>
+                <adm4 code="CD00000069" name="Rwamiko 2"/>
             </adm3>
         </adm2>
     </adm1>
