@@ -1328,6 +1328,7 @@
                 <adm4 name="Yahmul" code="C1571"/>
                 <adm4 name="Ewaa Jdida road Azaz" code="SY020400-1" />
                 <adm4 name="Eqraa center" code="SY020400-2" />
+                <adm4 name="Shamarin (Dhahiat Al-Shuhada, Qatari)" code="SY020400-3" />
             </adm3>
             <adm3 name="Aghtrin" code="SY020401">
                 <adm4 name="Abla" code="C1584"/>
@@ -6127,6 +6128,10 @@
                 <adm4 name="Marayan" code="C4308"/>
                 <adm4 name="Mozra" code="C4298"/>
                 <adm4 name="Rami" code="C4294"/>
+            </adm3>
+            <adm3 name="Maarret Tamasrin" code="SY070503">
+                <adm4 name="Mazraar Idris" code="SY070503-1" />
+                <adm4 name="School Block Camp" code="SY070503-2" />
             </adm3>
             <adm3 name="Mhambal" code="SY070502">
                 <adm4 name="Ainata" code="C6614"/>
