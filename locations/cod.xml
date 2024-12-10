@@ -97,6 +97,12 @@
                 <adm4 code="CD00000068" name="Nyakagezi"/>
                 <adm4 code="CD00000069" name="Rwamiko 2"/>
             </adm3>
+            <adm3 code="CD0000010" name="Bwisha">
+                <adm4 code="CD00000070" name="Tingitingi"/>
+                <adm4 code="CD00000071" name="Buhyongole"/>
+                <adm4 code="CD00000072" name="Rambura"/>
+                <adm4 code="CD00000073" name="Nyakalende"/>
+            </adm3>
         </adm2>
     </adm1>
 </adm0>
