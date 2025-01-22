@@ -2646,6 +2646,7 @@
                 <adm4 name="Al Kamouneh/Najat Elik Dar" code="SY020001-6"/>
                 <adm4 name="Al Kamouneh/Al-Nour Village for the Blind" code="SY020001-7"/>
                 <adm4 name="Al Kamouneh/Khan Alaasal" code="SY020001-8"/>
+                <adm4 name="Al Rayan Camp" code="SY020001-9"/>
             </adm3>
             <adm3 name="Daret Azza" code="SY020004">
                 <adm4 name="Anjara" code="C1144"/>
@@ -6250,6 +6251,13 @@
                 <adm4 name="Al-Salim -Tilaada Camp" code="SY070301-21" />
                 <adm4 name="Al Othmanyah Camp" code="SY070301-22" />
                 <adm4 name="Al Nahdah Camp" code="SY070301-23" />
+                <adm4 name="Shamuna Camp" code="SY070301-24"/>
+                <adm4 name="Al Khair Village" code="SY070301-25"/>
+                <adm4 name="Al Rabe'e Camp" code="SY070301-26"/>
+                <adm4 name="Al Heir Camp" code="SY070301-27"/>
+                <adm4 name="Al Deir Camp" code="SY070301-28"/>
+                <adm4 name="Al Safa Camp" code="SY070301-29"/>
+                <adm4 name="Al Ghazali Camp" code="SY070301-30"/>
             </adm3>
             <adm3 name="Harim" code="SY070300">
                 <adm4 name="Alkastal Camp" code="SY070300-1"/>
@@ -6453,6 +6461,8 @@
                 <adm4 name="Al Nour(Zaradna Mashehad) Camp" code="SY070005-18"/>
                 <adm4 name="Al Magsala Camp" code="SY070005-19"/>
                 <adm4 name="Al Andalus camp " code="SY070005-20"/>
+                <adm4 name="Deniz Camp" code="SY070005-21"/>
+                <adm4 name="Hayat Camp" code="SY070005-22"/>
             </adm3>
             <adm3 name="Saraqab" code="SY070003">
                 <adm4 name="Abul Khos" code="C3914"/>
@@ -6561,6 +6571,10 @@
                 <adm4 name="Qanniyeh" code="C4260"/>
                 <adm4 name="Tiba - Katrin" code="C4264"/>
                 <adm4 name="Yaqubiyeh" code="C4256"/>
+                <adm4 name="Oion Aara Camp" code="SY070403-1"/>
+                <adm4 name="Qarout Camp" code="SY070403-2"/>
+                <adm4 name="Tal Akhdar Camp" code="SY070403-3"/>
+                <adm4 name="Bilal Camp" code="SY070403-4"/>
             </adm3>
             <adm3 name="Jisr-Ash-Shugur" code="SY070400">
                 <adm4 name="Al Areen - Kastanah Fawqan" code="C6640"/>
