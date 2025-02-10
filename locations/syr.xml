@@ -3417,6 +3417,8 @@
                 <adm4 name="Al-Shlash" code="C56750"/>
                 <adm4 name="Hokomiah" code="C56751"/>
                 <adm4 name="Khatyonia" code="SY11010001"/>
+                <adm4 name="Hweijet Ateeq" code="SY11010002"/>
+                <adm4 name="Eastern Sahlabiyeh" code="SY11010003"/>
             </adm3>
             <adm3 name="Karama" code="SY110102">
                 <adm4 name="Abu Natoliyah" code="C6955"/>
