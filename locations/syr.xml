@@ -2647,6 +2647,8 @@
                 <adm4 name="Al Kamouneh/Al-Nour Village for the Blind" code="SY020001-7"/>
                 <adm4 name="Al Kamouneh/Khan Alaasal" code="SY020001-8"/>
                 <adm4 name="Al Rayan Camp" code="SY020001-9"/>
+                <adm4 name="Esraa Camp 1" code="SY020001-10"/>
+                <adm4 name="Esraa Camp 2" code="SY020001-11"/>
             </adm3>
             <adm3 name="Daret Azza" code="SY020004">
                 <adm4 name="Anjara" code="C1144"/>
