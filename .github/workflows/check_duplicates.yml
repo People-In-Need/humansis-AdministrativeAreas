@@ -1,0 +1,21 @@
+name: Check Duplicates
+
+on: [push, pull_request]
+
+jobs:
+  check_duplicates:
+    runs-on: ubuntu-latest
+    container:
+      image: ruby:3.2.0
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Ruby
+        run: ruby -v
+
+      - name: Install Nokogiri
+        run: gem install nokogiri
+
+      - name: Run check script
+        run: ruby check.rb
